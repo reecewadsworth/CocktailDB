@@ -2,19 +2,14 @@ import json
 from DataWrapper import CocktailDataWrapper
 from DataPull import CocktailDataPull
 
-def fetch_and_save_data():
-    # Initialize the pipeline and fetch cocktail data
-    pipeline = CocktailDataPull()
-    pipeline.execute()
-
 def main():
     # Fetch and save data (this will download everytime for this demo)
-    fetch_and_save_data()
+    pipeline = CocktailDataPull()
+    pipeline.execute()
 
     # Initialize the wrapper with the saved data from cocktail_data.json
     wrapper = CocktailDataWrapper(data_file="cocktail_data.json")
 
-    
     # Example: Get cocktail by ID
     try:
         cocktail_by_id = wrapper.get_cocktail_by_id("14029")
