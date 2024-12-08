@@ -1,0 +1,2414 @@
+[
+    {
+        "CocktailID": "15346",
+        "Name": "155 Belmont",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "White wine glass",
+        "Ingredients": [
+            "Dark rum - 1 shot",
+            "Light rum - 2 shots",
+            "Vodka - 1 shot",
+            "Orange juice - 1 shot"
+        ],
+        "Instructions": {
+            "en": "Blend with ice. Serve in a wine glass. Garnish with carrot.",
+            "es": "Mezclar con hielo. Sirvalo en una copa de vino. Decorar con zanahoria.",
+            "de": "Mit Eis vermischen. In einem Weinglas servieren. Mit Karotte garnieren.",
+            "fr": "Melanger avec des glacons. Servir dans un verre a vin. Garnir de carottes.",
+            "it": "Miscela con ghiaccio.\r\nServire in un bicchiere da vino.\r\nGuarnire con una carota."
+        },
+        "DateModified": "2016-10-05 12:36:28",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/yqvvqs1475667388.jpg"
+    },
+    {
+        "CocktailID": "14029",
+        "Name": "57 Chevy with a White License Plate",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Creme de Cacao - 30.0 ml",
+            "Vodka - 30.0 ml"
+        ],
+        "Instructions": {
+            "en": "1. Fill a rocks glass with ice 2.add white creme de cacao and vodka 3.stir",
+            "es": "1. Llenar un vaso con hielo 2.Anadir crema de cacao blanco y vodka 3.Remover",
+            "de": "1. Fullen Sie ein Rocks Glas mit Eis 2. Geben Sie weisse Creme de Kakao und Wodka hinzu. 3. Umruhren.",
+            "fr": "1. Remplir un verre a glace avec de la glace 2.Ajouter la creme de cacao blanche et la vodka 3.Remuer",
+            "it": "1. Riempi un bicchiere di tipo highball con ghiaccio\r\n2. Aggiungere la crema di cacao bianca e la vodka\r\n3. mescolare"
+        },
+        "DateModified": "2016-07-18 22:49:04",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/qyyvtu1468878544.jpg"
+    },
+    {
+        "CocktailID": "178318",
+        "Name": "747 Drink",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Vodka - 30.0 ml",
+            "Roses sweetened lime juice - 30.0 ml",
+            "Cranberry Juice - 30.0 ml",
+            "Sprite - Top"
+        ],
+        "Instructions": {
+            "en": "Fill a Collins glass with ice.\r\nPour in vodka, lime cordial, and cranberry juice.\r\nFill up with Sprite.\r\nGarnish with a Lime wheel or some cranberries",
+            "es": "Llene un vaso Collins con hielo.\r\nVierta el vodka, el cordial de lima y el zumo de arandanos.\r\nRellene con Sprite.\r\nDecorar con una rueda de lima o unos arandanos.",
+            "fr": "Remplir un verre Collins de glace.\r\nVerser la vodka, le sirop de citron vert et le jus de canneberge.\r\nRemplissez avec du Sprite.\r\nGarnir d'une roue de citron vert ou de quelques canneberges.",
+            "it": "\r\nRiempi un bicchiere Collins di ghiaccio.\r\nVersare la vodka, lo sciroppo di lime e il succo di mirtillo rosso.\r\nRiempi con Sprite.\r\nGuarnire con una fetta di lime o dei mirtilli rossi"
+        },
+        "DateModified": null,
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/i9suxb1582474926.jpg"
+    },
+    {
+        "CocktailID": "16108",
+        "Name": "9 1/2 Weeks",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Absolut Citron - 60.0 ml",
+            "Orange Curacao - 15.0 ml",
+            "Strawberry liqueur - 1 splash",
+            "Orange juice - 30.0 ml"
+        ],
+        "Instructions": {
+            "en": "Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Garnish with sliced strawberry.",
+            "es": "Mezclar todos los ingredientes en una batidora de vaso. Enfrie y cuele en una copa de coctel. Decorar con rodajas de fresa.",
+            "de": "Alle Zutaten in einem Glasmischer vermengen. Abkuhlen lassen und in das Cocktailglas abseihen. Mit Erdbeerscheiben garnieren.",
+            "fr": "Melanger tous les ingredients dans un mixeur. Refroidir et filtrer dans un verre a cocktail. Garnir de tranches de fraises.",
+            "it": "Unisci tutti gli ingredienti in una planetaria.\r\nRaffredda e versa in un bicchiere da cocktail.\r\nGuarnire con la fragola a fette."
+        },
+        "DateModified": "2016-08-31 19:48:22",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/xvwusr1472669302.jpg"
+    },
+    {
+        "CocktailID": "16943",
+        "Name": "A Gilligan's Island",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Collins glass",
+        "Ingredients": [
+            "Vodka - 30.0 ml",
+            "Peach schnapps - 30.0 ml",
+            "Orange juice - 90.0 ml",
+            "Cranberry juice - 90.0 ml"
+        ],
+        "Instructions": {
+            "en": "Shaken, not stirred!",
+            "es": "!Sacudido, no agitado!",
+            "de": "Geschuttelt, nicht geruhrt!",
+            "fr": "Secoues, pas remues !",
+            "it": "Agita non mescolare!"
+        },
+        "DateModified": "2016-04-28 19:12:56",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/wysqut1461867176.jpg"
+    },
+    {
+        "CocktailID": "17005",
+        "Name": "A True Amaretto Sour",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Old-fashioned glass",
+        "Ingredients": [
+            "Amaretto - 1 jigger",
+            "Lemon - Juice of 1/2",
+            "Ice",
+            "Maraschino cherry"
+        ],
+        "Instructions": {
+            "en": "Rub the rim of an old fashioned glass with lemon, and dip repeatedly into granulated sugar until it has a good \"frosted\" rim. Shake a jigger of Amaretto with the juice of 1/2 a lemon. Strain into glass and add ice. Garnish with a Marachino Cherry.",
+            "es": "Frotar el borde de un vaso old fashioned con limon y sumergirlo repetidamente en azucar granulada hasta que tenga un buen borde \"escarchado\". Agitar un jigger de Amaretto con el zumo de 1/2 limon. Cuele en el vaso y anada hielo. Decorar con una cereza Marachino.",
+            "de": "Reiben Sie den Rand eines old fashioned Glases mit Zitrone ein und tauchen Sie es wiederholt in Kristallzucker, bis es einen guten \"gefrosteten\" Rand hat. Einen Jigger Amaretto mit dem Saft von 1/2 Zitrone schutteln. In ein Glas abseihen und Eis hinzufugen. Mit einer Marachinokirsche garnieren.",
+            "fr": "Frotter le bord d'un verre old fashioned avec du citron et le plonger a plusieurs reprises dans du sucre cristallise jusqu'a ce que le bord soit bien \"givre\". Agiter un verre d'Amaretto avec le jus d'un demi-citron. Filtrer dans le verre et ajouter de la glace. Garnir d'une cerise Marachino.",
+            "it": "Strofinare il bordo di un bicchiere vecchio stile con il limone e immergerlo ripetutamente nello zucchero semolato fino a ottenere un buon bordo \"glassato\".\r\nShakerare un jigger di Amaretto con il succo di 1/2 limone.\r\nFiltrare nel bicchiere e aggiungere il ghiaccio.\r\nGuarnire con una ciliegia al maraschino."
+        },
+        "DateModified": "2016-08-31 19:49:32",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/rptuxy1472669372.jpg"
+    },
+    {
+        "CocktailID": "14560",
+        "Name": "A.D.M. (After Dinner Mint)",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Irish coffee cup",
+        "Ingredients": [
+            "White Creme de Menthe - 15.0 ml",
+            "Southern Comfort - 22.5 ml",
+            "Vodka - 15.0 ml",
+            "Hot chocolate - Fill with"
+        ],
+        "Instructions": {
+            "en": "shake vigorously",
+            "es": "agitar energicamente",
+            "de": "kraftig schutteln",
+            "fr": "secouer vigoureusement",
+            "it": "Versare tutti gli ingredienti in un bicchiere, agita bene."
+        },
+        "DateModified": "2016-08-31 19:53:20",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/ruxuvp1472669600.jpg"
+    },
+    {
+        "CocktailID": "17222",
+        "Name": "A1",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Gin - 1 3/4 shot",
+            "Grand Marnier - 1 Shot",
+            "Lemon Juice - 1/4 Shot",
+            "Grenadine - 1/8 Shot"
+        ],
+        "Instructions": {
+            "en": "Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.",
+            "es": "Verter todos los ingredientes en una coctelera, mezclar y servir con hielo en una copa fria.",
+            "de": "Alle Zutaten in einen Cocktailshaker geben, mischen und uber Eis in ein gekuhltes Glas servieren.",
+            "fr": "Verser tous les ingredients dans un shaker, melanger et servir avec des glacons dans un verre refrigere.",
+            "it": "Versare tutti gli ingredienti in uno shaker, mescolare e servire con ghiaccio in un bicchiere freddo."
+        },
+        "DateModified": "2017-09-07 21:42:09",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg"
+    },
+    {
+        "CocktailID": "17223",
+        "Name": "Abbey Martini",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Gin - 2 shots",
+            "Sweet Vermouth - 1 shot",
+            "Orange Juice - 1 shot",
+            "Angostura Bitters - 3 dashes"
+        ],
+        "Instructions": {
+            "en": "Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.",
+            "es": "Ponga todos los ingredientes en una coctelera, mezclelos y cuele el contenido en una copa de coctel fria.",
+            "de": "Alle Zutaten in einen Shaker geben und mischen, dann den Inhalt in ein gekuhltes Cocktailglas abseihen.",
+            "fr": "Mettre tous les ingredients dans un shaker et melanger, puis filtrer le contenu dans un verre a cocktail refrigere.",
+            "it": "Mettere tutti gli ingredienti in uno shaker e mescolare, quindi filtrare il contenuto in una coppetta da cocktail fredda."
+        },
+        "DateModified": "2017-09-07 21:50:03",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/2mcozt1504817403.jpg"
+    },
+    {
+        "CocktailID": "14107",
+        "Name": "Absolut Summertime",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Collins glass",
+        "Ingredients": [
+            "Absolut Citron - 45.0 ml",
+            "Sweet and sour - 22.5 ml",
+            "Sprite - 15.0 ml",
+            "Soda water - 90.0 ml",
+            "Lemon - 1 slice"
+        ],
+        "Instructions": {
+            "en": "Add all ingredients except lemon to shaker filled with ice. Cover and shake vigorously. Strain contents into ice filled collins glass. Garnish with lemon.",
+            "es": "Anada todos los ingredientes excepto el limon a una coctelera llena de hielo. Tapar y agitar energicamente. Cuele el contenido en un vaso Collins lleno de hielo. Decorar con limon.",
+            "de": "Alle Zutaten ausser Zitrone in den mit Eis gefullten Shaker geben. Abdecken und kraftig schutteln. Inhalt in eisgefulltes Collins-Glas abseihen. Mit Zitrone garnieren.",
+            "fr": "Ajouter tous les ingredients, sauf le citron, dans un shaker rempli de glace. Couvrir et secouer vigoureusement. Filtrer le contenu dans un verre Collins rempli de glace. Garnir de citron.",
+            "it": "Aggiungere tutti gli ingredienti tranne il limone in uno shaker pieno di ghiaccio.\r\nCoprite e agitate energicamente.\r\nFiltrare il contenuto in un bicchiere collins pieno di ghiaccio.\r\nGuarnire con il limone."
+        },
+        "DateModified": "2016-08-31 19:54:22",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/trpxxs1472669662.jpg"
+    },
+    {
+        "CocktailID": "17224",
+        "Name": "Absolutely Fabulous",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Champagne flute",
+        "Ingredients": [
+            "Vodka - 1 shot",
+            "Cranberry Juice - 2 shots",
+            "Champagne - Top up with"
+        ],
+        "Instructions": {
+            "en": "Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. Top up with Champagne.",
+            "es": "Mezcle el vodka y el zumo de arandanos en una coctelera y cuelelo en un vaso. Completar con Champagne.",
+            "de": "Den Wodka- und Preiselbeersaft in einem Shaker vermischen und in ein Glas abseihen. Mit Champagner auffullen.",
+            "fr": "Melanger la vodka et le jus de canneberge dans un shaker et filtrer dans un verre. Completer avec du champagne.",
+            "it": "Mescolare la vodka e il succo di mirtillo rosso in uno shaker e filtrare in un bicchiere. Rabboccare con lo champagne."
+        },
+        "DateModified": "2017-09-07 21:55:34",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/abcpwr1504817734.jpg"
+    },
+    {
+        "CocktailID": "16134",
+        "Name": "Absolutly Screwed Up",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Collins glass",
+        "Ingredients": [
+            "Absolut Citron - 1 shot",
+            "Orange juice - 1 shot",
+            "Triple sec - 1 shot",
+            "Ginger ale - Fill to top"
+        ],
+        "Instructions": {
+            "en": "Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.",
+            "es": "Agitalo, sabe mejor asi, pero puedes removerlo si quieres. 6 de esos y usted sera desperdiciado por el resto de la noche.",
+            "de": "Schutteln Sie, schmeckt es besser, aber Sie konnen es auch ruhren, wenn Sie wollen. 6 davon und du wirst fur den Rest der Nacht erledigt sein.",
+            "fr": "Secouez-le, c'est plus savoureux ainsi, mais vous pouvez le remuer si vous voulez. 6 d'entre eux et vous serez epuise pour le reste de la nuit.",
+            "it": "Agitalo perche ha un sapore migliore, ma puoi mescolarlo se vuoi.\r\n6 di quelli e sarai ubriaco per il resto della notte."
+        },
+        "DateModified": "2016-08-31 19:55:28",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/yvxrwv1472669728.jpg"
+    },
+    {
+        "CocktailID": "17225",
+        "Name": "Ace",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Martini Glass",
+        "Ingredients": [
+            "Gin - 2 shots",
+            "Grenadine - 1/2 shot",
+            "Heavy cream - 1/2 shot",
+            "Milk - 1/2 shot",
+            "Egg White - 1/2 Fresh"
+        ],
+        "Instructions": {
+            "en": "Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass.",
+            "es": "Agitar todos los ingredientes en una coctelera con hielo y colar en un vaso frio.",
+            "de": "Alle Zutaten in einem Cocktailshaker mit Eis schutteln und dann in einem kalten Glas abseihen.",
+            "fr": "Agiter tous les ingredients dans un shaker avec de la glace, puis filtrer dans un verre froid.",
+            "it": "Shakerare tutti gli ingredienti in uno shaker e ghiaccio, quindi filtrare in un bicchiere freddo."
+        },
+        "DateModified": "2017-09-07 22:05:06",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/l3cd7f1504818306.jpg"
+    },
+    {
+        "CocktailID": "17226",
+        "Name": "Adam & Eve",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Gin - 1 shot",
+            "Cognac - 1 shot",
+            "Creme de Cassis - 1 shot",
+            "Fresh Lemon Juice - 1/8 shot"
+        ],
+        "Instructions": {
+            "en": "Shake together all the ingredients and strain into a cold glass.",
+            "es": "Agite todos los ingredientes y cuelelos en un vaso frio.",
+            "de": "Alle Zutaten vermengen und in ein kaltes Glas abseihen.",
+            "fr": "Secouer tous les ingredients et filtrer dans un verre froid.",
+            "it": "Shakerare insieme tutti gli ingredienti e filtrare in un bicchiere freddo."
+        },
+        "DateModified": "2017-09-07 22:17:58",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/vfeumw1504819077.jpg"
+    },
+    {
+        "CocktailID": "17227",
+        "Name": "Addington",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Sweet Vermouth - 2 shots",
+            "Dry Vermouth - 1 shot",
+            "Soda Water - Top up with"
+        ],
+        "Instructions": {
+            "en": "Mix both the vermouth's in a shaker and strain into a cold glass. Top up with a squirt of Soda Water. ",
+            "es": "Mezcle ambos vermuts en una coctelera y cuelelos en un vaso frio. Completar con un chorrito de soda.",
+            "de": "Mischen Sie beide Wermutarten in einem Shaker und sieben Sie sie in ein kaltes Glas. Mit einem Spritzer Sodawasser auffullen.",
+            "fr": "Melanger les deux vermouths dans un shaker et filtrer dans un verre froid. Completer avec un filet d'eau gazeuse.",
+            "it": "Rabboccare con l'acqua di seltz.Mescolare entrambi i vermut in uno shaker e filtrare in un bicchiere freddo."
+        },
+        "DateModified": "2017-09-07 22:15:25",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/ib0b7g1504818925.jpg"
+    },
+    {
+        "CocktailID": "17228",
+        "Name": "Addison",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Martini Glass",
+        "Ingredients": [
+            "Gin - 1 1/2 shot",
+            "Vermouth - 1 1/2 shot"
+        ],
+        "Instructions": {
+            "en": "Shake together all the ingredients and strain into a cold glass.",
+            "es": "Agite todos los ingredientes y cuelelos en un vaso frio.",
+            "de": "Alle Zutaten vermengen und in ein kaltes Glas abseihen.",
+            "fr": "Secouer tous les ingredients et filtrer dans un verre froid.",
+            "it": "Shakerare insieme tutti gli ingredienti e filtrare in un bicchiere freddo."
+        },
+        "DateModified": "2017-09-07 22:38:20",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/yzva7x1504820300.jpg"
+    },
+    {
+        "CocktailID": "14272",
+        "Name": "Addison Special",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Old-fashioned glass",
+        "Ingredients": [
+            "Vodka - 1 shot",
+            "Grenadine - 1 tblsp",
+            "Orange juice - Fill with"
+        ],
+        "Instructions": {
+            "en": "Combine ingredients in the order listed into a shaker. Fill half full with ice and shake well. Strain into glass with ice and garnish with a cherry and orange wedge.",
+            "es": "Mezcle los ingredientes en el orden indicado en una coctelera. Llenar hasta la mitad con hielo y agitar bien. Colar en un vaso con hielo y decorar con una cereza y un gajo de naranja.",
+            "de": "Mische die Zutaten in der angegebenen Reihenfolge in einem Shaker. Halb voll mit Eis fullen und gut schutteln. In ein Glas mit Eis abseihen und mit einem Kirsch- und Orangenkeil garnieren.",
+            "fr": "Melanger les ingredients dans l'ordre indique dans un shaker. Remplir a moitie avec de la glace et bien secouer. Filtrer dans un verre avec de la glace et garnir d'une cerise et d'un quartier d'orange.",
+            "it": "Unisci gli ingredienti nell'ordine elencato in uno shaker.\r\nRiempi per meta con ghiaccio e agita bene.\r\nFiltrare in un bicchiere con ghiaccio e guarnire con una fetta di ciliegia e arancia."
+        },
+        "DateModified": "2017-04-24 22:14:53",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/4vo5651493068493.jpg"
+    },
+    {
+        "CocktailID": "17229",
+        "Name": "Adios Amigos Cocktail",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Martini Glass",
+        "Ingredients": [
+            "Rum - 1 shot",
+            "Dry Vermouth - 1/2 shot",
+            "Cognac - 1/2 shot",
+            "Gin - 1/2 shot",
+            "Fresh Lime Juice - 1/4 shot",
+            "Sugar Syrup - 1/4 shot",
+            "Water - 1/2 shot"
+        ],
+        "Instructions": {
+            "en": "Shake together all the ingredients and strain into a cold glass.",
+            "es": "Agite todos los ingredientes y cuelelos en un vaso frio.",
+            "de": "Alle Zutaten vermengen und in ein kaltes Glas abseihen.",
+            "fr": "Secouer tous les ingredients et filtrer dans un verre froid.",
+            "it": "Shakerare insieme tutti gli ingredienti e filtrare in un bicchiere freddo."
+        },
+        "DateModified": "2017-09-07 22:31:33",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/8nk2mp1504819893.jpg"
+    },
+    {
+        "CocktailID": "12560",
+        "Name": "Afterglow",
+        "Category": "Cocktail",
+        "Alcoholic": false,
+        "GlassType": "Highball Glass",
+        "Ingredients": [
+            "Grenadine - 1 part",
+            "Orange juice - 4 parts",
+            "Pineapple juice - 4 parts"
+        ],
+        "Instructions": {
+            "en": "Mix. Serve over ice.",
+            "es": "Mezclar. Servir con hielo.",
+            "de": "Mischen. Auf Eis servieren.",
+            "fr": "Melanger. Servir sur des glacons.",
+            "it": "Servire con ghiaccio.Mescolare."
+        },
+        "DateModified": "2016-07-18 22:07:32",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/vuquyv1468876052.jpg"
+    },
+    {
+        "CocktailID": "12562",
+        "Name": "Alice Cocktail",
+        "Category": "Cocktail",
+        "Alcoholic": false,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Grenadine - 1 cl",
+            "Orange juice - 1 cl",
+            "Pineapple juice - 2 cl",
+            "Cream - 4 cl"
+        ],
+        "Instructions": {
+            "en": "Shake well, strain into a large cocktail glass.",
+            "es": "Agitar bien y colar en una copa de coctel grande.",
+            "de": "Gut schutteln, in ein grosses Cocktailglas abseihen.",
+            "fr": "Bien agiter et filtrer dans un grand verre a cocktail.",
+            "it": "Shakerare bene, filtrare in una coppetta da cocktail capiente."
+        },
+        "DateModified": "2016-07-18 22:09:04",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/qyqtpv1468876144.jpg"
+    },
+    {
+        "CocktailID": "178321",
+        "Name": "Amaretto fizz",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Collins glass",
+        "Ingredients": [
+            "Amaretto - 4 cl",
+            "Orange Juice - 6 cl",
+            "White Wine - 15 cl",
+            "Orange Peel - Garnish with"
+        ],
+        "Instructions": {
+            "en": "Mix Amaretto, orange juice and sparkling wine in a jug. Add a strip orange zest to each glass, if you like.",
+            "es": "Mezcle Amaretto, zumo de naranja y vino espumoso en una jarra. Si lo desea, anada una tira de ralladura de naranja a cada vaso.",
+            "fr": "Melanger l'Amaretto, le jus d'orange et le vin mousseux dans une carafe. Ajoutez un zeste d'orange dans chaque verre, si vous le souhaitez.",
+            "it": "Mescola in una caraffa amaretto, succo d'arancia e spumante. Aggiungi una striscia di scorza d'arancia in ogni bicchiere, se ti piace."
+        },
+        "DateModified": null,
+        "Tags": [
+            "Christmas"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/92h3jz1582474310.jpg"
+    },
+    {
+        "CocktailID": "178325",
+        "Name": "Aperol Spritz",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Wine Glass",
+        "Ingredients": [
+            "Aperol - 100 ml",
+            "Prosecco - 150 ml",
+            "Soda Water - Top"
+        ],
+        "Instructions": {
+            "en": "Put a couple of cubes of ice into 2 glasses and add a 50 ml measure of Aperol to each. Divide the prosecco between the glasses and then top up with soda, if you like.",
+            "es": "Pon un par de cubitos de hielo en 2 vasos y anade una medida de 50 ml de Aperol en cada uno. Reparta el prosecco entre los vasos y, si lo desea, rellene con soda.",
+            "fr": "Mettez quelques glacons dans deux verres et ajoutez une dose de 50 ml d'Aperol dans chacun d'eux. Repartissez le prosecco dans les verres et completez avec du soda, si vous le souhaitez.",
+            "it": "Mettere un paio di cubetti di ghiaccio in 2 bicchieri e aggiungere a ciascuno un misurino da 50 ml di Aperol. Dividi il prosecco tra i bicchieri e poi rabbocca con la soda, se ti piace."
+        },
+        "DateModified": null,
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/iloasq1587661955.jpg"
+    },
+    {
+        "CocktailID": "178353",
+        "Name": "Apple Highball",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Lime - Chopped",
+            "Apple Schnapps - 1 shot",
+            "Cognac - 1 shot",
+            "Ginger - Top"
+        ],
+        "Instructions": {
+            "en": "Add ice in a highball glass. Rub a wedge of fresh lime around rim and place it in the glass. Add a shot of Apple schnapps, a shot of Courvoisier and top up with ginger ale.",
+            "es": "Ponga hielo en un vaso highball. Frote una rodaja de lima fresca alrededor del borde y coloquela en el vaso. Anade un chupito de aguardiente de manzana, otro de Courvoisier y completa con ginger ale.",
+            "de": "Eis in ein Longdrinkglas geben. Reiben Sie eine frische Limettenscheibe um den Rand und legen Sie sie in das Glas. Fugen Sie einen Schuss Apfelschnaps und einen Schuss Courvoisier hinzu und fullen Sie mit Ginger Ale auf.",
+            "fr": "Mettre de la glace dans un verre a cocktail. Frotter le bord d'un quartier de citron vert frais et le placer dans le verre. Ajouter une dose de schnaps de pomme, une dose de Courvoisier et completer avec du soda au gingembre.",
+            "it": "Aggiungere il ghiaccio in un bicchiere highball. Strofina uno spicchio di lime fresco attorno al bordo e mettilo nel bicchiere. Aggiungi un bicchierino di grappa alla mela, un bicchierino di Courvoisier e completa con ginger ale.\n"
+        },
+        "DateModified": null,
+        "Tags": [
+            "Classy",
+            " Spicy"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/66mt9b1619695719.jpg"
+    },
+    {
+        "CocktailID": "12564",
+        "Name": "Apple Karate",
+        "Category": "Cocktail",
+        "Alcoholic": false,
+        "GlassType": "Highball Glass",
+        "Ingredients": [
+            "Apple juice - 2 cups",
+            "Carrot - 1 large"
+        ],
+        "Instructions": {
+            "en": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.",
+            "es": "Ponga todos los ingredientes en la jarra de la batidora, tapela y batala a velocidad media hasta que esten bien mezclados. Verter en un vaso alto, 2 medianos o 3 pequenos y beber.",
+            "de": "Alle Zutaten in das Mixer geben - abdecken und bei mittlerer Geschwindigkeit schaumig schlagen, bis sie gut vermischt sind. In ein grosses, 2 mittlere oder 3 kleine Glaser fullen und geniessen.",
+            "fr": "Mettre tous les ingredients dans le bol du mixeur - couvrir et fouetter a vitesse moyenne jusqu'a obtention d'un melange homogene. Verser dans un grand verre, 2 verres moyens ou 3 petits verres et boire.",
+            "it": "Mettere tutti gli ingredienti nella caraffa del frullatore - coprire e montare a velocita media fino a quando non sono ben amalgamati.Versare in un bicchiere alto, 2 medi o 3 piccoli e bere."
+        },
+        "DateModified": "2016-07-18 22:17:14",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/syusvw1468876634.jpg"
+    },
+    {
+        "CocktailID": "16311",
+        "Name": "Applejack",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Jack Daniels - 30.0 ml",
+            "Midori melon liqueur - 15.0 ml",
+            "Sour mix - 60.0 ml"
+        ],
+        "Instructions": {
+            "en": "Add all ingredients into mixing glass, chill and strain into cocktail glass",
+            "es": "Anadir todos los ingredientes en el vaso mezclador, enfriar y colar en una copa de coctel",
+            "de": "Alle Zutaten in das Mischglas geben, kuhlen und in das Cocktailglas abseihen.",
+            "fr": "Ajouter tous les ingredients dans un verre a melange, refroidir et filtrer dans un verre a cocktail.",
+            "it": "Aggiungere tutti gli ingredienti nel mixing glass, raffreddare e filtrare in una coppetta da cocktail"
+        },
+        "DateModified": "2016-11-15 11:24:22",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/sutyqp1479209062.jpg"
+    },
+    {
+        "CocktailID": "178319",
+        "Name": "Aquamarine",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Martini Glass",
+        "Ingredients": [
+            "Hpnotiq - 60.0 ml",
+            "Pineapple Juice - 30.0 ml",
+            "Banana Liqueur - 30.0 ml"
+        ],
+        "Instructions": {
+            "en": "Shake well in a shaker with ice.\r\nStrain in a martini glass.",
+            "es": "Agitar bien en una coctelera con hielo.\r\nColar en una copa de martini.",
+            "fr": "Bien agiter dans un shaker avec de la glace.\r\nFiltrer dans un verre a martini.",
+            "it": "Shakerare bene in uno shaker con ghiaccio.\r\nFiltrare in una coppetta Martini."
+        },
+        "DateModified": null,
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/zvsre31572902738.jpg"
+    },
+    {
+        "CocktailID": "14584",
+        "Name": "Arizona Stingers",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Hurricane glass",
+        "Ingredients": [
+            "Absolut Vodka - 2 shots",
+            "Iced tea - 360.0 ml"
+        ],
+        "Instructions": {
+            "en": "Place ice cubes in the hurricane glass . Add the 2 HEAPING shots of Absolute Vodka (Note: You can add as many shots of Absolute as you want!) Fill the rest of glass with the Arizona Icetea with lemon. Stir to mix using a spoon. Drink up and enjoy!!!!!!!",
+            "es": "Ponga cubitos de hielo en el vaso huracan. Anade los 2 chupitos de Vodka Absolute (Nota: !Puedes anadir tantos chupitos de Absolute como quieras!) Llena el resto del vaso con el Icetea Arizona con limon. Remover para mezclar con una cuchara. !!!!!!!Bebe y disfruta!!!!!!!",
+            "de": "Legen Sie Eiswurfel in das Hurrikanglas. Fuge die 2 HEAPING-Shots von Absolute Vodka hinzu (Hinweis: Du kannst so viele Shots von Absolute hinzufugen, wie du willst!) Fuge den Rest des Glases mit dem Arizona Icetea mit Zitrone. Mit einem Loffel verruhren.",
+            "fr": "Placez des glacons dans le verre hurricane. Ajouter les 2 HEAPING shots de Vodka Absolute (Note : Vous pouvez ajouter autant de shots d'Absolute que vous le souhaitez !) Remplir le reste du verre avec l'Arizona Icetea au citron. Melangez a l'aide d'une cuillere. Buvez et appreciez !!!!!!!",
+            "it": "Metti i cubetti di ghiaccio nel bicchiere Hurricane.\r\nAggiungi i 2 shot  di HEAPING di Absolut Vodka (Nota: puoi aggiungere tutti i shot di Absolute che vuoi!) Riempi il resto del bicchiere con l'Arizona Ice tea al limone.\r\nMescola per amalgamare usando un cucchiaio."
+        },
+        "DateModified": "2017-04-24 22:10:55",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/y7w0721493068255.jpg"
+    },
+    {
+        "CocktailID": "17074",
+        "Name": "Arizona Twister",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Hurricane glass",
+        "Ingredients": [
+            "Vodka - 1 shot",
+            "Malibu rum - 1 shot",
+            "Gold tequila - 1 shot",
+            "Orange juice - 1 splash",
+            "Pineapple juice - 1 splash",
+            "Cream of coconut - 1 splash",
+            "Grenadine - 1 dash",
+            "Ice - crushed",
+            "Pineapple - 1 wedge"
+        ],
+        "Instructions": {
+            "en": "Just mix in the shots of rum, vodka, and tequila. Add splashes of the three juices, heavy on the pineapple. Top off with grenadine. Crushed ice should already be in glass. Top off the glass with a pineapple wedge.",
+            "es": "Mezcla los chupitos de ron, vodka y tequila. Anada chorritos de los tres zumos, sobre todo de pina. Completar con granadina. El hielo picado debe estar ya en el vaso. Completa el vaso con un gajo de pina.",
+            "de": "Mischen Sie einfach die Zutaten fur Rum, Wodka und Tequila unter. Fuge grosszugig Spritzer der Safte zu der Ananas hinzu. Mit Grenadine abschliessen. Crushed Ice sollte sich bereits im Glas befinden. Das Glas mit einem Ananaskeil abdecken.",
+            "fr": "Il suffit de melanger les doses de rhum, de vodka et de tequila. Ajoutez les trois jus de fruits, en insistant sur l'ananas. Completez avec de la grenadine. De la glace pilee doit deja se trouver dans le verre. Completer le verre avec un quartier d'ananas.",
+            "it": "Basta mescolare degli shot di rum, vodka e tequila.\r\nAggiungere un po dei tre succhi, versare un po' di piu il succo a l'ananas.\r\nCompletare con la granatina.\r\nIl ghiaccio tritato dovrebbe gia essere nel bicchiere.\r\nCompleta il bicchiere con una fetta di ananas."
+        },
+        "DateModified": "2017-04-24 22:08:55",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/ido1j01493068134.jpg"
+    },
+    {
+        "CocktailID": "17066",
+        "Name": "Army special",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Vodka - 30 ml",
+            "Gin - 30 ml",
+            "Lime juice cordial - 45 ml",
+            "Ice - 1/2 glass crushed"
+        ],
+        "Instructions": {
+            "en": "Pour Vodka, Gin and lime cordial into glass, and top up with crushed ice. Wait for ice to melt slightly and sip without a straw.",
+            "es": "Vierta el vodka, la ginebra y el cordial de lima en un vaso y rellene con hielo picado. Esperar a que el hielo se derrita ligeramente y beber sin pajita.",
+            "de": "Wodka, Gin und Limetten in ein Glas geben und mit zerstossenem Eis auffullen. Warten Sie, bis das Eis leicht geschmolzen ist und geniessen Sie es ohne Strohhalm.",
+            "fr": "Verser la vodka, le gin et le sirop de citron vert dans un verre et completer avec de la glace pilee. Attendre que la glace fonde legerement et siroter sans paille.",
+            "it": "Versare la vodka, il gin e lo sciroppo di lime nel bicchiere e completare con ghiaccio tritato.\r\nAspetta che il ghiaccio si sciolga leggermente e sorseggia senza cannuccia."
+        },
+        "DateModified": "2017-04-24 22:07:42",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/55muhh1493068062.jpg"
+    },
+    {
+        "CocktailID": "178337",
+        "Name": "Autumn Garibaldi",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cordial glass",
+        "Ingredients": [
+            "Campari - 45.0 ml",
+            "Orange Juice - 75.0 ml",
+            "Ginger Beer - 75.0 ml",
+            "Orange Peel - Garnish with"
+        ],
+        "Instructions": {
+            "en": "Pour all ingredients into a glass over ice and stir with a bar spoon. Garnish with some orange slices.",
+            "es": "Vierta todos los ingredientes en un vaso con hielo y remuevalos con una cuchara de bar. Decorar con unas rodajas de naranja.",
+            "de": "Alle Zutaten in ein Glas auf Eis geben und mit einem Barloffel umruhren. Mit einigen Orangenscheiben garnieren.",
+            "fr": "Verser tous les ingredients dans un verre sur de la glace et remuer avec une cuillere a soupe. Decorer avec quelques tranches d'orange.",
+            "it": "Versare tutti gli ingredienti in un bicchiere con ghiaccio e mescolare con un cucchiaio da bar. Guarnire con qualche fetta d'arancia."
+        },
+        "DateModified": null,
+        "Tags": [
+            "Kids"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/ne7re71604179012.jpg"
+    },
+    {
+        "CocktailID": "17180",
+        "Name": "Aviation",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Gin - 4.5 cl",
+            "lemon juice - 1.5 cl",
+            "maraschino liqueur - 1.5 cl"
+        ],
+        "Instructions": {
+            "en": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.",
+            "es": "Anada todos los ingredientes en una coctelera llena de hielo. Agitar bien y colar en una copa de coctel. Decorar con una cereza.",
+            "de": "Alle Zutaten in den mit Eis gefullten Cocktailshaker geben. Gut schutteln und in ein Cocktailglas abseihen. Mit einer Kirsche garnieren.",
+            "fr": "Ajouter tous les ingredients dans un shaker rempli de glace. Bien agiter et filtrer dans un verre a cocktail. Garnir d'une cerise.",
+            "it": "Aggiungi tutti gli ingredienti in uno shaker pieno di ghiaccio.\r\nShakerare bene e filtrare in una coppetta da cocktail.\r\nGuarnire con una ciliegia."
+        },
+        "DateModified": "2016-11-04 09:55:28",
+        "Tags": [
+            "IBA",
+            "Classic"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/trbplb1606855233.jpg"
+    },
+    {
+        "CocktailID": "17267",
+        "Name": "Bahama Mama",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Rum - 3 parts",
+            "Dark Rum - 1 part",
+            "Banana liqueur - 1 part",
+            "Grenadine - 1 part",
+            "Pineapple Juice - 2 parts",
+            "Orange Juice - 2 parts",
+            "Sweet and Sour - 1 part"
+        ],
+        "Instructions": {
+            "en": "Add 2 parts club soda or more or less to taste.\r\n\r\nMix it all together and pour over a bunch of ice. Drink with a straw.",
+            "es": "Anada 2 partes de club soda o mas o menos al gusto.\r\n\r\nMezclelo todo y viertalo sobre un monton de hielo. Bebelo con una pajita.",
+            "de": "Fuge 2 Teile Club-Soda oder mehr oder weniger nach Belieben hinzu. Alles zusammen mischen und uber reichlich Eis giessen. Trink mit einem Strohhalm.",
+            "fr": "Ajouter 2 mesures de club soda ou plus ou moins selon le gout.\r\n\r\nMelangez le tout et versez sur des glacons. Boire avec une paille.",
+            "it": "Aggiungere 2 bicchieri da shot con acqua di selt.\r\nMescola il tutto e versa sopra un po 'di ghiaccio.\r\nBevi con una cannuccia."
+        },
+        "DateModified": "2018-01-12 21:42:19",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/tyb4a41515793339.jpg"
+    },
+    {
+        "CocktailID": "178320",
+        "Name": "Banana Cream Pi",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Wine Glass",
+        "Ingredients": [
+            "Malibu Rum - 30.0 ml",
+            "Banana Liqueur - 30.0 ml",
+            "Pineapple Juice - Top"
+        ],
+        "Instructions": {
+            "en": "Serve over ice.",
+            "es": "Servir con hielo.",
+            "de": "\nAuf Eis servieren.",
+            "fr": "Servir sur des glacons.",
+            "it": "Servire con ghiaccio"
+        },
+        "DateModified": null,
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/m5p67n1582474609.jpg"
+    },
+    {
+        "CocktailID": "178317",
+        "Name": "Bee's Knees",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Martini Glass",
+        "Ingredients": [
+            "Gold rum - 6 cl",
+            "Orange Juice - 2 cl",
+            "Lime Juice - 2 cl",
+            "Triple Sec - 2 jiggers"
+        ],
+        "Instructions": {
+            "en": "Shake ingredients with crushed ice\r\nGarnish with orange peel\r\n",
+            "es": "Agitar los ingredientes con hielo picado\r\nDecorar con piel de naranja\r\n",
+            "fr": "Secouer les ingredients avec de la glace pilee\r\nGarnir d'ecorces d'orange\r\n",
+            "it": "Shakerare gli ingredienti con ghiaccio tritato\r\nGuarnire con la scorza d'arancia"
+        },
+        "DateModified": null,
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/tx8ne41582475326.jpg"
+    },
+    {
+        "CocktailID": "17254",
+        "Name": "Bijou",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Orange Bitters - 1 dash",
+            "Green Chartreuse - 30.0 ml",
+            "Gin - 30.0 ml",
+            "Sweet Vermouth - 30.0 ml"
+        ],
+        "Instructions": {
+            "en": "Stir in mixing glass with ice and strain\r\n",
+            "es": "Remover en un vaso mezclador con hielo y colar\r\n",
+            "de": "In Mischglas mit Eis verruhren und abseihen.",
+            "fr": "Melanger dans un verre a melange avec de la glace et filtrer\r\n",
+            "it": "Mescolare nel mixing glass con ghiaccio e filtrare"
+        },
+        "DateModified": "2017-12-19 18:09:45",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/rysb3r1513706985.jpg"
+    },
+    {
+        "CocktailID": "17268",
+        "Name": "Blue Hurricane",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Rum - 4 parts",
+            "Dark Rum - 2 parts",
+            "Passoa - 1 part",
+            "Blue Curacao - 1 part",
+            "Sweet and Sour - 6 parts",
+            "Ice - cubes"
+        ],
+        "Instructions": {
+            "en": "If each part is 1/2 oz then use about 2.5 cups of ice.\r\n\r\nBlend it all together. \r\nDrink it with a big straw if you have one.\r\n\r\n",
+            "es": "Si cada parte es de 1/2 onza, utilice unas 2,5 tazas de hielo.\r\n\r\nMezclalo todo.\r\nBebelo con una pajita grande, si tienes.\r\n\r\n",
+            "de": "Wenn jedes Teil 1,5 cl. ist, dann verwenden Sie etwa 2,5 Tassen Eis. Alles zusammenmischen. Trink es mit einem grossen Strohhalm, wenn du einen hast.",
+            "fr": "Si chaque partie represente 1/2 oz, il faut utiliser environ 2,5 tasses de glace.\r\n\r\nMelangez le tout.\r\nBuvez-le avec une grosse paille si vous en avez une.\r\n\r\n",
+            "it": "Se ogni parte e 15ml, usa circa 2,5 tazze di ghiaccio e mescola tutto insieme."
+        },
+        "DateModified": "2018-01-12 22:23:42",
+        "Tags": [
+            "Colourful",
+            " Blue"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/nwx02s1515795822.jpg"
+    },
+    {
+        "CocktailID": "178336",
+        "Name": "Blueberry Mojito",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Dark Rum - 2 shots",
+            "Lime Juice - 1 shot",
+            "Sugar - Dash",
+            "Blueberries - Whole",
+            "Lemon-lime soda - Top"
+        ],
+        "Instructions": {
+            "en": "Muddle the blueberries with the other ingredients and serve in a highball glass. Garnish with mint and a half slice of lime.",
+            "es": "Mezcla los arandanos con los demas ingredientes y sirvelo en un vaso highball. Decorar con menta y media rodaja de lima.",
+            "fr": "Melanger les myrtilles avec les autres ingredients et servir dans un verre highball. Garnir de menthe et d'une demi-tranche de citron vert.",
+            "it": "Pestare i mirtilli con gli altri ingredienti e servire in un bicchiere highball. Guarnire con la menta e mezza fetta di lime."
+        },
+        "DateModified": null,
+        "Tags": [
+            "Fruity"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/07iep51598719977.jpg"
+    },
+    {
+        "CocktailID": "17242",
+        "Name": "Bombay Cassis",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Balloon Glass",
+        "Ingredients": [
+            "Gin - 50 ml",
+            "Creme de Cassis - 20 ml",
+            "Fresh Lime Juice - 15 ml",
+            "Ginger beer - 75 ml",
+            "Lime - 1",
+            "Ginger - 1 long strip"
+        ],
+        "Instructions": {
+            "en": "Add the Bombay Sapphire, Creme de Cassis and lime juice to a balloon glass and swirl well to mix.\r\nFill the glass with good quality cubed ice.\r\nTop up with chilled and freshly opened Fever-Tree Ginger Beer.\r\nGently stir to combine, top with a gently squeezed lime wedge and finish with a fresh ginger slice.",
+            "es": "Anada el Bombay Sapphire, la Creme de Cassis y el zumo de lima a una copa de balon y agite bien para mezclar.\r\nLlene el vaso con cubitos de hielo de buena calidad.\r\nCompletar con Fever-Tree Ginger Beer fria y recien abierta.\r\nRemover suavemente para mezclar, anadir una rodaja de lima y terminar con una rodaja de jengibre fresco.",
+            "de": "Den Bombay Saphir, Creme de Cassis und Limettensaft in ein Ballonglas geben und gut verruhren. Fullen Sie das Glas mit Eiswurfel. Mit gekuhltem und frisch geoffnetem Fever-Tree Ginger Bier auffullen. Zum Mischen leicht umruhren, mit einem leicht ausgedruckten Limettenkeil belegen und mit einer frischen Ingwerscheibe abschliessen.",
+            "fr": "Ajouter le Bombay Sapphire, la creme de cassis et le jus de citron vert dans un verre ballon et bien melanger.\r\nRemplissez le verre avec des glacons de bonne qualite.\r\nCompletez avec la biere de gingembre Fever-Tree fraichement ouverte.\r\nRemuez delicatement pour melanger, completez avec un quartier de citron vert legerement presse et terminez par une tranche de gingembre frais.",
+            "it": "Aggiungere lo zaffiro Bombay, la Creme de Cassis e il succo di lime in un bicchiere a palloncino e agitare bene per mescolare.\r\nRiempi il bicchiere con cubetti di ghiaccio di buona qualita.\r\nRabboccare con Fever-Tree Ginger Beer fresca e fresca.\r\nMescolare delicatamente per unire, guarnire con uno spicchio di lime leggermente strizzato e finire con una fetta di zenzero fresco."
+        },
+        "DateModified": "2017-11-08 10:28:28",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/h1e0e51510136907.jpg"
+    },
+    {
+        "CocktailID": "12572",
+        "Name": "Bora Bora",
+        "Category": "Cocktail",
+        "Alcoholic": false,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Pineapple juice - 10 cl",
+            "Passion fruit juice - 6 cl",
+            "Lemon juice - 1 cl",
+            "Grenadine - 1 cl"
+        ],
+        "Instructions": {
+            "en": "Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pineapple and one cherry.",
+            "es": "Preparar en una batidora o coctelera, servir en un vaso highball con hielo. Decorar con 1 rodaja de pina y una cereza.",
+            "de": "In einem Mixer oder Shaker zubereiten, in einem Highball-Glas \"On the Rocks\" servieren. Mit 1 Scheibe Ananas und einer Kirsche garnieren.",
+            "fr": "Preparer dans un mixeur ou un shaker, servir dans un verre highball avec des glacons. Garnir d'une tranche d'ananas et d'une cerise.",
+            "it": "Preparare in un frullatore o uno shaker, servire in un bicchiere highball con ghiaccio.Guarnire con 1 fetta di ananas e una ciliegia."
+        },
+        "DateModified": "2016-09-06 23:43:31",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/xwuqvw1473201811.jpg"
+    },
+    {
+        "CocktailID": "17251",
+        "Name": "Boulevardier",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Martini Glass",
+        "Ingredients": [
+            "Campari - 30.0 ml",
+            "Sweet Vermouth - 30.0 ml",
+            "Rye whiskey - 37.5 ml",
+            "Orange Peel - 1"
+        ],
+        "Instructions": {
+            "en": "Stir with ice, strain, garnish and serve.",
+            "es": "Remover con hielo, colar, decorar y servir.",
+            "de": "Mit Eis verruhren, abseihen, garnieren und servieren.",
+            "fr": "Remuer avec de la glace, filtrer, decorer et servir.",
+            "it": "Mescolare con ghiaccio, filtrare, guarnire e servire."
+        },
+        "DateModified": "2017-12-19 17:51:08",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/km84qi1513705868.jpg"
+    },
+    {
+        "CocktailID": "178331",
+        "Name": "Bounty Hunter",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Margarita glass",
+        "Ingredients": [
+            "Rum - 1 shot",
+            "Coconut Liqueur - 1 shot",
+            "Blueberries - Garnish with",
+            "Pineapple Juice - Dash",
+            "Prosecco - Top"
+        ],
+        "Instructions": {
+            "en": "Add the spirits into a shaker as well as the pineapple juice, strain into a Margarita glass. Top with Prosecco and garnish with Blueberries.",
+            "es": "Anada los licores en una coctelera, asi como el zumo de pina, y cuelelo en una copa Margarita. Anada Prosecco y decore con arandanos.",
+            "fr": "Ajouter les spiritueux dans un shaker ainsi que le jus d'ananas, puis filtrer dans un verre a Margarita. Completer avec du Prosecco et decorer avec des myrtilles.",
+            "it": "Aggiungere gli alcolici in uno shaker e il succo d'ananas, filtrare in un bicchiere Margarita. Completare con prosecco e guarnire con mirtilli."
+        },
+        "DateModified": null,
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/t8bgxl1596018175.jpg"
+    },
+    {
+        "CocktailID": "17825",
+        "Name": "Brigadier",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Coupe Glass",
+        "Ingredients": [
+            "Hot Chocolate - 120.0 ml",
+            "Green Chartreuse - 30.0 ml",
+            "Cherry Heering - 30.0 ml"
+        ],
+        "Instructions": {
+            "en": "Mix ingredients in a warmed mug and stir.",
+            "es": "Mezclar los ingredientes en una taza caliente y remover.",
+            "de": "Die Zutaten in einem erwarmten Becher mischen und umruhren.",
+            "fr": "Melanger les ingredients dans une tasse chaude et remuer.",
+            "it": "Mescolare gli ingredienti in una tazza calda e mescola."
+        },
+        "DateModified": "2018-02-18 09:50:01",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/nl89tf1518947401.jpg"
+    },
+    {
+        "CocktailID": "178311",
+        "Name": "Broadside",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "151 proof rum - 1 shot",
+            "Scotch - 1/2 shot",
+            "Bitters - 3 drops",
+            "Wormwood - 1 Fresh",
+            "Ice - cubes"
+        ],
+        "Instructions": {
+            "en": "Half fill the glass with ice cubes. Crush the wormwood and add to ice. Pour rum, scotch and butters, then serve!",
+            "es": "Llene el vaso hasta la mitad con cubitos de hielo. Machaque el ajenjo y anadalo al hielo. Vierta el ron, el whisky y las mantequillas, !y sirvalo!",
+            "fr": "Remplir le verre a moitie de glacons. Broyer l'absinthe et l'ajouter aux glacons. Verser le rhum, le scotch et les beurres, puis servir !",
+            "it": "Riempire a meta il bicchiere con cubetti di ghiaccio. Schiacciare l'assenzio e aggiungerlo al ghiaccio. Versare rum, scotch e burro, quindi servire!"
+        },
+        "DateModified": null,
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/l2o6xu1582476870.jpg"
+    },
+    {
+        "CocktailID": "178310",
+        "Name": "Brooklyn",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Rye Whiskey - 60.0 ml",
+            "Dry Vermouth - 30.0 ml",
+            "Maraschino Liqueur - 7.5 ml",
+            "Angostura Bitters - 3 dashes",
+            "Maraschino Cherry - 1"
+        ],
+        "Instructions": {
+            "en": "Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.",
+            "es": "Mezclar los ingredientes con hielo y remover hasta que esten bien frios. Cuele en una copa de coctel fria.",
+            "fr": "Melanger les ingredients avec de la glace et remuer jusqu'a ce qu'ils soient bien refroidis. Filtrer dans un verre a cocktail bien frais.",
+            "it": "Unisci gli ingredienti con il ghiaccio e mescola finche non si saranno raffreddati. Filtrare in una coppetta da cocktail ghiacciata."
+        },
+        "DateModified": null,
+        "Tags": [
+            "Alcoholic",
+            "Sweet",
+            "DateNight",
+            "USA"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/ojsezf1582477277.jpg"
+    },
+    {
+        "CocktailID": "178356",
+        "Name": "Butterfly Effect",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Hurricane glass",
+        "Ingredients": [
+            "Raspberry Vodka - 50 ml",
+            "Cranberry Juice - 25 ml",
+            "Lemonade - 25 ml",
+            "Blue Curacao - 10 ml",
+            "Sugar Syrup - 10 ml",
+            "Lime Juice - Dash",
+            "Mint - Sprig"
+        ],
+        "Instructions": {
+            "en": "Grab your boston tin, fill it with cubes ice and then simply chuck in all your ingredients apart from your lemonade.\nNow it's time to shake what your mama gave you until all your ingredients are blended to perfection.\nAdd some cubes of ice to your hurricane glass, give them a swill to cool the whole thing down and then strain your raspberry vodka cocktail of wonder into the glass.\nTop with lemonade and chuck a sprig of mint on top for garnish.\nYou can either get drinking at this point or go and try and grab a few butterflies to finish, the choice really is yours.",
+            "es": "Coge tu lata boston, llenala de cubitos de hielo e introduce todos los ingredientes menos la limonada.\r\nAhora es el momento de batir lo que te dio tu madre hasta que todos los ingredientes se mezclen a la perfeccion.\r\nPon unos cubitos de hielo en el vaso huracan, batelos para enfriarlo todo y cuela el coctel de frambuesa y vodka en el vaso.\r\nAnade limonada y una ramita de menta para decorar.\r\nPuedes seguir bebiendo en este punto o ir a intentar coger unas cuantas mariposas para terminar, la decision es tuya.",
+            "de": "Schnappen Sie sich Ihre Boston-Dose, fullen Sie sie mit Eiswurfeln und geben Sie dann einfach alle Zutaten ausser Ihrer Limonade hinein.",
+            "fr": "Prends ton boston, remplis-le de glacons et ajoute-y tous les ingredients, a l'exception de la limonade.\nIl est maintenant temps de secouer ce que votre mere vous a donne jusqu'a ce que tous les ingredients soient melanges a la perfection.\nAjoutez quelques glacons dans votre verre hurricane, faites-les tourner pour refroidir l'ensemble, puis filtrez votre cocktail de vodka a la framboise dans le verre.\nCompletez avec de la limonade et ajoutez un brin de menthe en guise de decoration.\nVous pouvez soit continuer a boire a ce stade, soit essayer d'attraper quelques papillons pour finir, le choix est vraiment le votre.",
+            "it": "Prendi il tuo Boston Tin, riempilo con cubetti di ghiaccio e poi aggiungi semplicemente tutti gli ingredienti tranne la limonata.\nOra e il momento di frullare cio che ti ha dato tua mamma finche tutti gli ingredienti non saranno amalgamati alla perfezione.\nAggiungi alcuni cubetti di ghiaccio al tuo bicchiere da uragano, dai un sorso per raffreddare il tutto e poi filtra il tuo meraviglioso cocktail di vodka al lampone nel bicchiere.\nCompletare con la limonata e aggiungere un rametto di menta sopra per guarnire.\nPuoi iniziare a bere a questo punto o provare a prendere qualche farfalla per finire, la scelta e davvero tua."
+        },
+        "DateModified": null,
+        "Tags": [
+            "Purple",
+            " Colourful"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/ht3hnk1619704289.jpg"
+    },
+    {
+        "CocktailID": "178329",
+        "Name": "Captain Kidd's Punch",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Collins glass",
+        "Ingredients": [
+            "Rum - 2 shots",
+            "Lime Juice - 1 shot",
+            "Egg White - 1 shot",
+            "Bitters - 1 dash",
+            "Sugar - Ground",
+            "Nutmeg - Top"
+        ],
+        "Instructions": {
+            "en": "Mix all ingredients together in a shaker and strain into a collins glass. Use Caribbean dark Rum for a sweeter taste.",
+            "es": "Mezclar todos los ingredientes en una coctelera y colar en un vaso Collins. Utilice ron oscuro caribeno para un sabor mas dulce.",
+            "de": "Alle Zutaten in einem Shaker vermischen und in ein Collins-Glas abseihen. Fur einen susseren Geschmack verwenden Sie karibischen dunklen Rum.",
+            "fr": "Melanger tous les ingredients dans un shaker et filtrer dans un verre Collins. Utilisez du rhum noir des Caraibes pour un gout plus doux.",
+            "it": "Mescolare tutti gli ingredienti insieme in uno shaker e filtrare in un bicchiere Collins. Usa rum scuro caraibico per un gusto piu dolce."
+        },
+        "DateModified": null,
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/d83spj1596017390.jpg"
+    },
+    {
+        "CocktailID": "17174",
+        "Name": "Cherry Electric Lemonade",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Pint glass",
+        "Ingredients": [
+            "Gin - 30.0 ml",
+            "Tequila - 30.0 ml",
+            "Vodka - 30.0 ml",
+            "White rum - 30.0 ml",
+            "Triple Sec - 30.0 ml",
+            "Cherry Grenadine - 30.0 ml",
+            "Sweet and sour - 30.0 ml",
+            "Club soda - 90.0 ml"
+        ],
+        "Instructions": {
+            "en": "Now stir vigorously and then pour over a large cup of ice. Now drink it with a straw and stir occasionally.",
+            "es": "Remuevelo energicamente y viertelo en un vaso grande con hielo. Ahora bebelo con una pajita y remueve de vez en cuando.",
+            "de": "Nun kraftig umruhren und dann uber einen grossen Becher Eis giessen. Nun mit einem Strohhalm trinken und gelegentlich umruhren.",
+            "fr": "Remuez vigoureusement et versez sur une grande tasse de glace. Buvez avec une paille en remuant de temps en temps.",
+            "it": "Ora mescola energicamente e poi versa sopra una grande tazza di ghiaccio.\r\nOra bevilo con una cannuccia e mescola di tanto in tanto."
+        },
+        "DateModified": "2015-12-28 10:45:48",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/tquyyt1451299548.jpg"
+    },
+    {
+        "CocktailID": "178369",
+        "Name": "Cocktail Horse's Neck",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Cognac - 4 cl",
+            "Ginger Beer - 100 ml",
+            "Angostura Bitters - 3 drops",
+            "Lemon Peel - 1"
+        ],
+        "Instructions": {
+            "en": "Wash and brush an organic, untreated lemon, then cut a spiral of lemon peel, using a citrus peel. If it is too large, cut it with a sharp knife.\r\n\r\nPut some ice in a tall tumbler glass, place the lemon peel inside and pour the cognac, add the ginger beer and let 2-3 drops of Angostura fall into it. Easy to do, but once you try it you'll love it.",
+            "es": "Lave y cepille un limon ecologico sin tratar y, a continuacion, corte una espiral de piel de limon, utilizando una peladora de citricos. Si es demasiado grande, cortela con un cuchillo afilado.\r\n\r\nPon un poco de hielo en un vaso alto, coloca la piel de limon dentro y vierte el conac, anade la cerveza de jengibre y deja caer 2-3 gotas de Angostura. Es facil de hacer, pero una vez que lo pruebes te encantara.",
+            "de": "Waschen und bursten Sie eine unbehandelte Bio-Zitrone, schneiden Sie dann mit einer Zitrusschale eine Spirale aus der Zitronenschale. Wenn es zu gross ist, schneiden Sie es mit einem scharfen Messer.\r\n\r\nEtwas Eis in ein hohes Tumbler-Glas geben, die Zitronenschale hineingeben und den Cognac aufgiessen, das Ginger Beer dazugeben und 2-3 Tropfen Angostura hineintropfen lassen. Einfach zu machen, aber wenn Sie es einmal probiert haben, werden Sie es lieben.",
+            "fr": "Lavez et brossez un citron biologique non traite, puis coupez une spirale d'ecorce de citron a l'aide d'un econome. Si elle est trop grande, coupez-la a l'aide d'un couteau bien aiguise.\r\n\r\nMettez de la glace dans un grand verre tumbler, placez le zeste de citron a l'interieur et versez le cognac, ajoutez la biere de gingembre et laissez tomber 2 a 3 gouttes d'Angostura. Facile a faire, mais une fois que vous l'aurez essaye, vous l'adorerez.",
+            "it": "Lavate e spazzolate un limone biologico e non trattato, poi tagliate una spirale di buccia di limone, usando uno sbuccia agrumi. Se viene troppo larga tagliatela con un coltellino affilato.\r\n\r\nMettete del ghiaccio in un bicchiere tumbler alto, sistemate dentro la buccia di limone e versate il cognac, aggiungete la ginger beer e lasciate cadere dentro 2-3 gocce di Angostura. Facile da fare, ma una volta provato ve ne innamorerete."
+        },
+        "DateModified": null,
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/4vobt21643844913.jpg"
+    },
+    {
+        "CocktailID": "17830",
+        "Name": "Corn n Oil",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Old-fashioned glass",
+        "Ingredients": [
+            "Lime - 1/2",
+            "Falernum - 10.0 ml",
+            "Angostura Bitters - 2 dashes",
+            "A\u00f1ejo rum - 30.0 ml",
+            "blackstrap rum - 30.0 ml"
+        ],
+        "Instructions": {
+            "en": "Cut the half lime in half again. Add the lime, falernum, and bitters to a rocks glass. Muddle. Add the rum. (Aged Barbados rum such as Plantation 5 Year is recommended). Add ice and stir. Float the blackstrap rum on top. Serve with a straw.",
+            "es": "Volver a cortar la media lima por la mitad. Anada la lima, el falernum y el amargo a un vaso con hielo. Mezcle. Anadir el ron. (Se recomienda ron anejo de Barbados, como Plantation 5 anos). Anadir hielo y remover. Dejar flotar el ron blackstrap por encima. Servir con pajita.",
+            "de": "Die halbe Limette wieder in zwei Halften schneiden. Fuge Limette, Falernum und Bitter in ein Rocks Glas. Mischen. Den Rum hinzufugen. (Gereifter Barbados-Rum wie z.B. Plantation 5 Year wird empfohlen). Eis hinzufugen und umruhren. Blackstrap Rum dazugeben. Mit einem Strohhalm servieren.",
+            "fr": "Couper a nouveau le demi-citron vert en deux. Ajoutez le citron vert, le falernum et les amers dans un verre a glace. Melanger. Ajouter le rhum. (Le rhum de la Barbade vieilli, tel que Plantation 5 ans, est recommande). Ajoutez de la glace et remuez. Faire flotter le rhum blackstrap sur le dessus. Servir avec une paille.",
+            "it": "Taglia a meta il lime.\r\nAggiungere il lime, il falernum e il bitter in un bicchiere.\r\nAggiungi il rum.\r\n(Si consigliano rum Barbados invecchiato come Plantation 5 Year).\r\nAggiungi il ghiaccio e mescola.\r\nVersa il rum blackstrap sopra.\r\nServire con una cannuccia."
+        },
+        "DateModified": "2018-06-27 15:15:09",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/pk6dwi1592767243.jpg"
+    },
+    {
+        "CocktailID": "17250",
+        "Name": "Corpse Reviver",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Gin - 22.5 ml",
+            "Triple Sec - 22.5 ml",
+            "Lillet Blanc - 22.5 ml",
+            "Lemon Juice - 22.5 ml",
+            "Absinthe - 1 dash"
+        ],
+        "Instructions": {
+            "en": "Shake, strain, straight up, cocktail glass rinsed with absinthe\r\n",
+            "es": "Agitar, colar, derecho, copa de coctel enjuagada con absenta\r\n",
+            "de": "Schutteln, abseihen, aufrichten, Cocktailglas mit Absinth gespult.",
+            "fr": "Secouer, filtrer, directement dans un verre a cocktail rince a l'absinthe.\r\n",
+            "it": "Agitare, filtrare, sciacquare il bicchiere da cocktail con assenzio e versare il mix fatto in precedenza."
+        },
+        "DateModified": "2017-12-19 17:25:34",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/gifgao1513704334.jpg"
+    },
+    {
+        "CocktailID": "17196",
+        "Name": "Cosmopolitan",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Vodka - 37.5 ml",
+            "Lime juice - 7.5 ml",
+            "Cointreau - 7.5 ml",
+            "Cranberry juice - 1/4 cup"
+        ],
+        "Instructions": {
+            "en": "Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel.",
+            "es": "Anada todos los ingredientes en una coctelera llena de hielo. Agite bien y cuele dos veces en una copa de coctel grande. Decorar con una rueda de lima.",
+            "de": "Alle Zutaten in den mit Eis gefullten Cocktailshaker geben. Gut schutteln und doppelt in ein grosses Cocktailglas abseihen. Mit Limettenrad garnieren.",
+            "fr": "Ajouter tous les ingredients dans un shaker rempli de glace. Bien agiter et filtrer dans un grand verre a cocktail. Garnir d'une roue de citron vert.",
+            "it": "Aggiungi tutti gli ingredienti in uno shaker pieno di ghiaccio.\r\nShakerare bene e filtrare due volte in una grande coppetta da cocktail.\r\nGuarnire con una fetta di lime."
+        },
+        "DateModified": "2017-09-02 17:06:02",
+        "Tags": [
+            "IBA",
+            "ContemporaryClassic"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/kpsajh1504368362.jpg"
+    },
+    {
+        "CocktailID": "14133",
+        "Name": "Cosmopolitan Martini",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail Glass",
+        "Ingredients": [
+            "Cointreau - 15.0 ml",
+            "Vodka - 30.0 ml",
+            "Lime - Juice of 1/2",
+            "Cranberry juice - 1 splash"
+        ],
+        "Instructions": {
+            "en": "Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.",
+            "es": "Vierta todos los ingredientes en un vaso mezclador lleno hasta la mitad con hielo, agite y cuele en una copa de Martini fria.",
+            "de": "Alle Zutaten in ein halb mit Eis gefulltes Mischglas geben, schutteln und in ein gekuhltes Martini-Glas abseihen.",
+            "fr": "Verser tous les ingredients dans un verre a melange rempli a moitie de glace, secouer et filtrer dans un verre a Martini refrigere.",
+            "it": "Versare tutti gli ingredienti in un mixing glass, riempito a meta con ghiaccio, shakerare e filtrare in una coppetta Martini ghiacciata."
+        },
+        "DateModified": "2015-08-18 15:19:40",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/upxxpq1439907580.jpg"
+    },
+    {
+        "CocktailID": "14608",
+        "Name": "Cream Soda",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Spiced rum - 30.0 ml",
+            "Ginger ale"
+        ],
+        "Instructions": {
+            "en": "Pour 1oz of Spiced Rum into a highball glass with ice. Fill with Ginger Ale.",
+            "es": "Vierta 1 onza de ron especiado en un vaso highball con hielo. Rellenar con Ginger Ale.",
+            "de": "Geben Sie 3 cl. Spiced Rum in ein Highball-Glas mit Eis. Mit Ginger Ale fullen.",
+            "fr": "Verser 1 oz de rhum epice dans un verre highball avec de la glace. Remplir de Ginger Ale.",
+            "it": "Versare 30gr di rum speziato in un bicchiere highball con ghiaccio.\r\nRiempi con Ginger Ale."
+        },
+        "DateModified": "2016-11-15 11:29:27",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/yqstxr1479209367.jpg"
+    },
+    {
+        "CocktailID": "17177",
+        "Name": "Dark Caipirinha",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "demerara Sugar - 2 tsp",
+            "Lime - 1",
+            "Cachaca - 75.0 ml"
+        ],
+        "Instructions": {
+            "en": "Muddle the sugar into the lime wedges in an old-fashioned glass.\r\nFill the glass with ice cubes.\r\nPour the cachaca into the glass.\r\nStir well.",
+            "es": "Mezcle el azucar con los gajos de lima en un vaso old-fashioned.\r\nLlene el vaso con cubitos de hielo.\r\nVierta la cachaca en el vaso.\r\nRemuevalo bien.",
+            "de": "Den Zucker in einem old-fashioned Glas in die Limettenspalten mischen.",
+            "fr": "Melanger le sucre avec les quartiers de citron vert dans un verre a l'ancienne.\r\nRemplir le verre de glacons.\r\nVerser la cachaca dans le verre.\r\nBien melanger.",
+            "it": "Pestare lo zucchero con gli spicchi di lime in un bicchiere vecchio stile, riempire il bicchiere con cubetti di ghiaccio, versare la cachaca nel bicchiere e mescolare bene."
+        },
+        "DateModified": "2016-08-28 18:40:58",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/uwstrx1472406058.jpg"
+    },
+    {
+        "CocktailID": "178334",
+        "Name": "Death in the Afternoon",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Margarita glass",
+        "Ingredients": [
+            "Absinthe - 2 shots",
+            "Champagne - Top"
+        ],
+        "Instructions": {
+            "en": "Easy as you like, pour the absinthe into a chilled glass, top with champagne. Must be drunk mid afternoon for the optimum effect.",
+            "es": "Tan facil como te apetezca, vierte la absenta en una copa helada y completa con champan. Debe beberse a media tarde para obtener un efecto optimo.",
+            "de": "So einfach konnen Sie den Absinth in ein gekuhltes Glas giessen und mit Champagner auffullen. Fur die optimale Wirkung muss es am Nachmittag getrunken werden.",
+            "fr": "Facile comme bonjour, versez l'absinthe dans un verre bien frais et completez avec du champagne. A consommer en milieu d'apres-midi pour un effet optimal.",
+            "it": "Versa l'assenzio in un bicchiere ghiacciato e aggiungi dello champagne. "
+        },
+        "DateModified": null,
+        "Tags": [
+            "Drunk"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/y7s3rh1598719574.jpg"
+    },
+    {
+        "CocktailID": "17181",
+        "Name": "Dirty Martini",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Vodka - 70ml/2fl oz",
+            "Dry Vermouth - 1 tbsp",
+            "Olive Brine - 2 tbsp",
+            "Lemon - 1 wedge",
+            "Olive - 1"
+        ],
+        "Instructions": {
+            "en": "Pour the vodka, dry vermouth and olive brine into a cocktail shaker with a handful of ice and shake well.\r\nRub the rim of a martini glass with the wedge of lemon.\r\nStrain the contents of the cocktail shaker into the glass and add the olive.\r\nA dirty Martini contains a splash of olive brine or olive juice and is typically garnished with an olive.",
+            "es": "Vierta el vodka, el vermut seco y la salmuera de aceitunas en una coctelera con un punado de hielo y agite bien.\r\nFrotar el borde de una copa de martini con la rodaja de limon.\r\nCuele el contenido de la coctelera en la copa y anada la aceituna.\r\nUn martini sucio contiene un chorrito de salmuera de aceituna o zumo de aceituna y suele adornarse con una aceituna.",
+            "de": "Wodka, trockenen Wermut und Olivensole in einen Cocktailshaker mit einer Handvoll Eis geben und gut schutteln.",
+            "fr": "Verser la vodka, le vermouth sec et la saumure d'olive dans un shaker avec une poignee de glace et bien secouer.\r\nFrotter le bord d'un verre a martini avec le quartier de citron.\r\nFiltrer le contenu du shaker dans le verre et ajouter l'olive.\r\nUn dirty Martini contient un peu de saumure d'olive ou de jus d'olive et est generalement decore d'une olive.",
+            "it": "Versare la vodka, il vermouth secco e la salamoia in uno shaker con una manciata di ghiaccio e agitare bene.\r\nStrofina il bordo di un bicchiere da martini con la fetta di limone.\r\nFiltrare il contenuto dello shaker nel bicchiere e aggiungere l'oliva.\r\nUn Martini sporco contiene una spruzzata di salamoia o succo di oliva ed e tipicamente guarnito con un'oliva."
+        },
+        "DateModified": "2017-01-22 11:08:20",
+        "Tags": [
+            "IBA",
+            "NewEra"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/vcyvpq1485083300.jpg"
+    },
+    {
+        "CocktailID": "11005",
+        "Name": "Dry Martini",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Gin - 49.99999999999999 ml",
+            "Dry Vermouth - 10.0 ml",
+            "Olive - 1"
+        ],
+        "Instructions": {
+            "en": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
+            "es": "Derecho: Vierta todos los ingredientes en un vaso mezclador con cubitos de hielo. Remover bien. Colar en una copa de martini fria. Exprima el aceite de la cascara de limon sobre la bebida, o decore con aceitunas.",
+            "de": "Pur: Alle Zutaten mit Eiswurfeln in ein Ruhrglas geben. Gut umruhren. In ein gekuhltes Martini-Cocktailglas abseihen. Drucken Sie das Ol aus der Zitronenschale auf das Getrank oder garnieren Sie es mit Oliven.",
+            "fr": "Droit : Verser tous les ingredients dans un verre a melange avec des glacons. Bien melanger. Filtrer dans un verre a cocktail martini refrigere. Presser l'huile du zeste de citron sur la boisson ou decorer d'une olive.",
+            "it": "Dritto: Versare tutti gli ingredienti nel mixing glass con cubetti di ghiaccio. Mescolare bene. Filtrare in una coppetta da cocktail Martini ghiacciata. Spremi l'olio della scorza di limone sulla bevanda o guarnisci con l'oliva."
+        },
+        "DateModified": "2017-09-02 12:51:35",
+        "Tags": [
+            "IBA",
+            "Classic",
+            "Christmas",
+            "Alcoholic"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/6ck9yi1589574317.jpg"
+    },
+    {
+        "CocktailID": "17182",
+        "Name": "Duchamp's Punch",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Old-fashioned glass",
+        "Ingredients": [
+            "Pisco - 5 cl",
+            "Lime Juice - 2.5 cl",
+            "Pineapple Syrup - 2.5 cl",
+            "St. Germain - 1.5 cl",
+            "Angostura Bitters - 2 Dashes",
+            "Pepper - Pinch",
+            "Lavender - 2 sprigs"
+        ],
+        "Instructions": {
+            "en": "Shake all ingredients.\r\nDouble strain in a chilled double old fashioned glass with abig ice cube.\r\nGarnish with a couple of lavender sprigs",
+            "es": "Agitar todos los ingredientes.\r\nCuele dos veces en un vaso old fashioned doble con un cubito de hielo grande.\r\nDecorar con un par de ramitas de lavanda.",
+            "de": "Alle Zutaten mischen.",
+            "fr": "Agiter tous les ingredients.\r\nPasser au chinois dans un verre double old fashioned bien frais avec un gros glacon.\r\nDecorer avec quelques brins de lavande.",
+            "it": "Shakerare tutti gli ingredienti.\r\nDoppia filtrazione in un doppio bicchiere vecchio stile freddo con un grande cubo di ghiaccio.\r\nGuarnire con un paio di rametti di lavanda"
+        },
+        "DateModified": "2017-01-22 11:31:25",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/g51naw1485084685.jpg"
+    },
+    {
+        "CocktailID": "178346",
+        "Name": "Elderflower Caipirinha",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Collins glass",
+        "Ingredients": [
+            "Cachaca - 60 ml",
+            "Lime - 1",
+            "Elderflower cordial - 3 cl"
+        ],
+        "Instructions": {
+            "en": "Take the glass and muddle the lime in it. Fill the glass with crushed ice and add the Cachaca. Stir well and top with some more crushed ice. Garnish with lime and enjoy!",
+            "es": "Coge el vaso y machaca la lima en el. Llene el vaso con hielo picado y anada la cachaca. Remueve bien y anade mas hielo picado. Decoralo con lima y !a disfrutar!",
+            "fr": "Prenez un verre et melangez-y le citron vert. Remplissez le verre de glace pilee et ajoutez la Cachaca. Remuez bien et completez avec de la glace pilee. Decorez avec du citron vert et degustez !",
+            "it": "In un bicchiere pestare il lime. Riempi il bicchiere con ghiaccio tritato e aggiungi la cachaca. Mescola bene e aggiungi altro ghiaccio tritato. Guarnire con il lime."
+        },
+        "DateModified": null,
+        "Tags": [
+            "Brazilian"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/dif7a31614006331.jpg"
+    },
+    {
+        "CocktailID": "17246",
+        "Name": "Empellon Cocina's Fat-Washed Mezcal",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Beer Glass",
+        "Ingredients": [
+            "Mezcal - 60.0 ml",
+            "Chocolate liqueur - 22.5 ml",
+            "Coffee liqueur - 15.0 ml"
+        ],
+        "Instructions": {
+            "en": "To ensure that your pork fat is just as delicious as theirs, here's their adobo marinade and what to do with it (you'll also need a rack of ribs):\r\n\r\n4 ancho chiles, 8 guajillo chiles and 4 chipotle chiles, plus 4 cloves roasted garlic, half a cup of cider vinegar, a quarter teaspoon of Mexican oregano, 1 teaspoon of ground black pepper, a whole clove, a quarter teaspoon of ground cinnamon and a half teaspoon of ground cumin.\r\n\r\nToast the dried chiles and soak in water for at least an hour until they are rehydrated. Drain and discard the soaking liquid. Combine the soaked chiles with the remaining ingredients and puree until smooth.\r\n\r\nCold smoke a rack of baby back pork ribs by taking a large hotel pan with woodchips on one side and charcoal on the other. Place another, smaller, pan with pork ribs, above the charcoal/woodchip pan. Ignite the charcoal, being careful to not ignite the woodchips. Cover both pans with foil and allow to smoke for 10-15 minutes, until desired level of smoke is achieved, then coat with adobo marinade and wrap in tin foil prior to placing ribs in a 300 degree oven for 7 hours. When the ribs have cooled, strain off the fat and use for the infusion.\r\n\r\nIf you're having a hard time coming up to the same kind of volume of fat, make up the balance with pork lard from a butcher. To get the same depth of flavor without the ribs, heat up the fat in a pot with a few spoons of the marinade.\r\n\r\nOnce you've got your tub of seasoned pork fat in cooled liquid form, pour equal amounts of Ilegal Joven mezcal and fat into a sealable container. Seal the container and give it a really good shake, then put it in the freezer overnight. When the whole thing is separated and congealed, pour it through a fine mesh chinoise. If you don't have a chinoise, try a fine mesh strainer, or if you don't have one of those, try spooning off most of the fat. There will be some beads of orange fat left in the strained mezcal: run that through a few layers of cheesecloth (or coffee filters in a pinch) to get rid of the last of it.\r\n\r\nThe mezcal is now ready for drinking, straight-up or in a cocktail. \r\n\r\nHabanero tincture\r\n\r\nSlice habaneros and add 2 ounces Ilegal Joven mezcal.\r\nAllow to sit overnight or until desired level of heat is achieved.\r\nCocktail\r\n\r\nCombine mezcal and chocolate liqueur in a mixing glass with ice and stir for 45 seconds.\r\nStrain into chilled coupe.\r\nCarefully \"sink\" the coffee liqueur down the inside of the coupe over a spoon.\r\nGarnish with 5 drops habanero tincture.",
+            "es": "Para que tu grasa de cerdo sea tan deliciosa como la suya, aqui tienes su adobo y que hacer con el (tambien necesitaras un costillar):\r\n\r\n4 chiles anchos, 8 chiles guajillos y 4 chiles chipotles, mas 4 dientes de ajo asado, media taza de vinagre de sidra, un cuarto de cucharadita de oregano mexicano, 1 cucharadita de pimienta negra molida, un clavo entero, un cuarto de cucharadita de canela molida y media cucharadita de comino molido.\r\n\r\nTostar los chiles secos y remojarlos en agua durante al menos una hora hasta que se rehidraten. Escurrir y desechar el liquido de remojo. Mezclar los chiles remojados con el resto de ingredientes y hacer un pure hasta que quede suave.\r\n\r\nAhumar en frio un costillar de cerdo en una sarten grande con astillas de madera en un lado y carbon en el otro. Coloca otra sarten mas pequena con costillas de cerdo encima de la sarten con carbon y virutas de madera. Encienda el carbon con cuidado de no prender las astillas. Cubra ambas cacerolas con papel de aluminio y deje que se ahumen durante 10-15 minutos, hasta conseguir el nivel de humo deseado, luego cubralas con adobo y envuelvalas en papel de aluminio antes de meter las costillas en el horno a 300 grados durante 7 horas. Cuando las costillas se hayan enfriado, cuele la grasa y utilicela para la infusion.\r\n\r\nSi le resulta dificil conseguir el mismo volumen de grasa, compense el resto con manteca de cerdo de un carnicero. Para obtener la misma profundidad de sabor sin las costillas, calienta la grasa en una olla con unas cucharadas de la marinada.\r\n\r\nUna vez que tengas tu tarrina de grasa de cerdo sazonada en forma liquida enfriada, vierte cantidades iguales de mezcal Ilegal Joven y de grasa en un recipiente con cierre hermetico. Sellelo, agitelo bien y metalo en el congelador toda la noche. Cuando todo este separado y congelado, viertelo a traves de un chino de malla fina. Si no tienes un chino, prueba con un colador de malla fina, o si no tienes uno de esos, prueba a quitar la mayor parte de la grasa con una cuchara. Quedaran algunas gotas de grasa anaranjada en el mezcal colado: pasalo por unas cuantas capas de estopilla (o filtros de cafe en su defecto) para deshacerte de lo que quede de ella.\r\n\r\nEl mezcal ya esta listo para beber, solo o en coctel.\r\n\r\nTintura de habanero\r\n\r\nCorta los habaneros en rodajas y anade 2 onzas de mezcal Ilegal Joven.\r\nDejalo reposar toda la noche o hasta que alcance el nivel de picante deseado.\r\nCoctel\r\n\r\nMezcle el mezcal y el licor de chocolate en un vaso mezclador con hielo y remueva durante 45 segundos.\r\nColar en una copa fria.\r\nCon cuidado, \"hundir\" el licor de cafe en el interior de la copa con una cuchara.\r\nDecorar con 5 gotas de tintura de habanero.",
+            "de": "Damit Ihr Schweinefett genauso lecker ist wie ihres, gibt es hier die Adobo-Marinade und was man damit machen kann (Sie benotigen auch ein Rippchen)",
+            "fr": "Pour que votre graisse de porc soit aussi delicieuse que la leur, voici leur marinade adobo et ce qu'il faut en faire (vous aurez egalement besoin d'un carre de cotes) :\r\n\r\n4 piments ancho, 8 piments guajillo et 4 piments chipotle, plus 4 gousses d'ail roties, une demi-tasse de vinaigre de cidre, un quart de cuillere a cafe d'origan mexicain, 1 cuillere a cafe de poivre noir moulu, un clou de girofle entier, un quart de cuillere a cafe de cannelle moulue et une demi-cuillere a cafe de cumin moulu.\r\n\r\nGriller les piments seches et les faire tremper dans l'eau pendant au moins une heure jusqu'a ce qu'ils soient rehydrates. Les egoutter et jeter le liquide de trempage. Melanger les piments trempes avec le reste des ingredients et reduire en puree jusqu'a l'obtention d'un melange homogene.\r\n\r\nFumer a froid un carre de petites cotes de porc en prenant une grande casserole d'hotel avec des copeaux de bois d'un cote et du charbon de bois de l'autre. Placez une autre casserole, plus petite, contenant des cotes de porc, au-dessus de la casserole a charbon de bois/copeaux de bois. Allumez le charbon de bois en veillant a ne pas enflammer les copeaux de bois. Couvrir les deux poeles avec du papier d'aluminium et laisser fumer pendant 10 a 15 minutes, jusqu'a ce que le niveau de fumee desire soit atteint, puis recouvrir de marinade adobo et envelopper dans du papier d'aluminium avant de placer les cotes dans un four a 300 degres pendant 7 heures. Lorsque les cotes ont refroidi, egoutter la graisse et l'utiliser pour l'infusion.\r\n\r\nSi vous avez du mal a trouver le meme volume de graisse, completez avec du saindoux de porc achete chez un boucher. Pour obtenir la meme profondeur de gout sans les cotes, faites chauffer la graisse dans une casserole avec quelques cuilleres de marinade.\r\n\r\nUne fois votre barquette de graisse de porc assaisonnee sous forme liquide et refroidie, versez des quantites egales de mezcal Ilegal Joven et de graisse dans un recipient pouvant etre scelle. Scellez le recipient et secouez-le vigoureusement, puis mettez-le au congelateur pour la nuit. Lorsque le tout est separe et fige, versez-le a travers une chinoise a mailles fines. Si vous n'avez pas de chinoise, essayez une passoire a mailles fines, ou si vous n'en avez pas, essayez de retirer la plus grande partie de la graisse a la cuillere. Il restera quelques perles de graisse orange dans le mezcal filtre : passez-les a travers plusieurs couches d'etamine (ou de filtres a cafe) pour vous en debarrasser.\r\n\r\nLe mezcal est maintenant pret a etre bu, pur ou en cocktail.\r\n\r\nTeinture de Habanero\r\n\r\nCouper les habaneros en tranches et ajouter 2 onces de mezcal Ilegal Joven.\r\nLaisser reposer toute la nuit ou jusqu'a ce que le niveau de chaleur souhaite soit atteint.\r\nCocktail\r\n\r\nMelanger le mezcal et la liqueur de chocolat dans un verre a melange avec de la glace et remuer pendant 45 secondes.\r\nFiltrer dans une coupe refrigeree.\r\nFaire couler delicatement la liqueur de cafe a l'interieur de la coupe a l'aide d'une cuillere.\r\nDecorer avec 5 gouttes de teinture d'habanero.",
+            "it": "\"Per assicurarti che il tuo grasso di maiale sia delizioso come il loro, ecco la loro marinata di adobo e cosa farne (ti servira anche un carre di costolette):\r\n\r\n4 peperoncini ancho, 8 peperoncini guajillo e 4 peperoncini chipotle, piu 4 spicchi d'aglio arrostiti, mezza tazza di aceto di sidro, un quarto di cucchiaino di origano messicano, 1 cucchiaino di pepe nero macinato, uno spicchio intero, un quarto di cucchiaino di cannella in polvere e mezzo cucchiaino di cumino macinato.\r\n\r\nTostare i peperoncini secchi e metterli a bagno in acqua per almeno un'ora finche non si saranno reidratati. Scolare e gettare il liquido di ammollo. Unire i peperoncini ammollati con gli ingredienti rimanenti e ridurre in purea fino a che liscio.\r\n\r\nAffumica a freddo una griglia di costolette di maiale prendendo una grande padella  con trucioli di legno da un lato e carbone dall'altro. Posizionare un'altra padella, piu piccola, con le costine di maiale, sopra la teglia per carbone / trucioli. Accendi il carbone facendo attenzione a non incendiare i trucioli. Coprire entrambe le padelle con un foglio e lasciare affumicare per 10-15 minuti, fino a raggiungere il livello di fumo desiderato, quindi rivestire con la marinata di adobo e avvolgere nella carta stagnola prima di mettere le costole in un forno a 300 gradi per 7 ore. Quando le costine si saranno raffreddate, filtrate il grasso e usatelo per l'infuso.\r\n\r\nSe hai difficolta a raggiungere lo stesso tipo di volume di grasso, compensa con lo strutto di maiale di un macellaio. Per ottenere la stessa profondita di sapore senza le costolette, scaldare il grasso in una pentola con qualche cucchiaio di marinata.\r\n\r\nUna volta che hai la tua vasca di grasso di maiale condito in forma liquida raffreddata, versa quantita uguali di mezcal e grasso in un contenitore sigillabile. Sigilla il contenitore e scuoterlo bene, quindi mettilo nel congelatore per una notte. Quando il tutto si sara separato e solidificato, versatelo in uno chinois a maglia fine. Se non hai un chinois, prova un colino a maglia fine, o se non ne hai uno, prova a eliminare la maggior parte del grasso con un cucchiaio. Ci saranno delle gocce di grasso arancione nel mezcal filtrato: passalo attraverso alcuni strati di garza (o filtri di caffe) per sbarazzartene dell'ultimo.\r\n\r\nIl mezcal e ora pronto per essere bevuto, puro o in un cocktail.\r\n\r\nTintura di Habanero\r\n\r\nAffetta gli habaneros e aggiungi 2 once di Ilegal Joven mezcal.\r\nLasciar riposare per una notte o finche non si raggiunge il livello di calore desiderato.\r\nCocktail\r\n\r\nUnisci il mezcal e il liquore al cioccolato in un mixing glass con ghiaccio e mescola per 45 secondi.\r\nFiltrare in un bicchiere freddo.\r\nAffondare con cura il liquore al caffe all'interno del bicchiere sopra un cucchiaio.\r\nDecorare con 5 gocce di tintura di habanero."
+        },
+        "DateModified": "2017-12-18 11:11:49",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/osgvxt1513595509.jpg"
+    },
+    {
+        "CocktailID": "17212",
+        "Name": "Espresso Martini",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Vodka - 5 cl",
+            "Kahlua - 1 cl",
+            "Sugar syrup - 1 dash"
+        ],
+        "Instructions": {
+            "en": "Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass",
+            "es": "Vierte los ingredientes en una coctelera llena de hielo, agita energicamente y cuela en una copa de martini fria",
+            "de": "Zutaten in einen mit Eis gefullten Shaker geben, kraftig schutteln und in ein gekuhltes Martini-Glas abseihen.",
+            "fr": "Verser les ingredients dans un shaker rempli de glace, secouer vigoureusement et filtrer dans un verre a martini bien frais.",
+            "it": "Versare gli ingredienti in uno shaker pieno di ghiaccio, shakerare energicamente e filtrare in un bicchiere da martini freddo"
+        },
+        "DateModified": "2017-09-02 18:22:31",
+        "Tags": [
+            "IBA",
+            "NewEra"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/n0sx531504372951.jpg"
+    },
+    {
+        "CocktailID": "178309",
+        "Name": "Espresso Rumtini",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Rum - 1 shot",
+            "Vanilla syrup - 1/2 shot",
+            "Espresso - 1 shot",
+            "Coffee - 1 shot"
+        ],
+        "Instructions": {
+            "en": "Mix together in a cocktail glass. Garnish with some choclate powder and coffee beans",
+            "es": "Mezclar todo en una copa de coctel. Decorar con un poco de chocolate en polvo y granos de cafe.",
+            "de": "In einem Cocktailglas vermischen. Mit etwas Schokoladenpulver und Kaffeebohnen garnieren",
+            "fr": "Melanger le tout dans un verre a cocktail. Decorer avec de la poudre de chocolat et des grains de cafe.",
+            "it": "Mescolare insieme in un bicchiere da cocktail. Guarnire con un po 'di cioccolato in polvere e chicchi di caffe"
+        },
+        "DateModified": null,
+        "Tags": [
+            "DinnerParty",
+            "StrongFlavor"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/acvf171561574403.jpg"
+    },
+    {
+        "CocktailID": "178344",
+        "Name": "Figgy Thyme",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Vodka - 60.0 ml",
+            "Honey - 1 tsp",
+            "Figs - 3",
+            "Thyme - 1 Sprig",
+            "Angostura Bitters - 2 dashes",
+            "Tonic Water - Top"
+        ],
+        "Instructions": {
+            "en": "In a lewis bag, crush up some ice like a baller/maniac (@glacioice). Pour your precious ice into a collins glass. In a cocktail shaker, muddle the figs and thyme together. Add honey vodka, lemon juice, and a large ice cube (@glacioice). Shake until well chilled, and strain into glass. Add tonic water and finally 2 dashes of angostura bitters. Garnish with sliced figs and thyme.",
+            "es": "En una bolsa lewis, tritura un poco de hielo como un baller/maniaco (@glacioice). Vierte tu preciado hielo en un vaso Collins. En una coctelera, mezcla los higos y el tomillo. Anade el vodka de miel, el zumo de limon y un cubito de hielo grande (@glacioice). Agitar hasta que este bien frio y colar en el vaso. Anadir agua tonica y, por ultimo, 2 chorritos de amargo de angostura. Decorar con rodajas de higo y tomillo.",
+            "fr": "Dans un sac lewis, piler de la glace comme un baller/maniac (@glacioice). Versez votre precieuse glace dans un verre Collins. Dans un shaker, melangez les figues et le thym. Ajoutez la vodka au miel, le jus de citron et un gros glacon (@glacioice). Agiter jusqu'a refroidissement complet et filtrer dans le verre. Ajouter de l'eau tonique et enfin 2 traits d'angostura bitters. Decorer avec des tranches de figues et du thym.",
+            "it": "Mettete in un frullatore dei cubetti di ghiaccio e avviate. Versa il ghiaccio in un bicchiere Collins. In uno shaker, pestare insieme i fichi e il timo. Aggiungi la vodka al miele, il succo di limone e un grande cubetto di ghiaccio. Agitare fino a quando non si sara raffreddato bene e filtrare nel bicchiere. Aggiungere l'acqua tonica e infine 2 gocce di angostura bitter. Guarnire con fichi affettati e timo."
+        },
+        "DateModified": null,
+        "Tags": [
+            "Christmas",
+            "Sweet"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/pbw4e51606766578.jpg"
+    },
+    {
+        "CocktailID": "16485",
+        "Name": "Flaming Lamborghini",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Kahlua - 30.0 ml",
+            "Sambuca - 30.0 ml",
+            "Blue Curacao - 30.0 ml",
+            "Baileys irish cream - 30.0 ml"
+        ],
+        "Instructions": {
+            "en": "Pour the Sambuca and Kahlua into the Cocktail Glass and give the drinker a straw. Pour the Baileys and Blue Curacao into two sepsrate shot glasses either side of the cocktail glass. Set light the concotion in the cocktail glass and start to drink through the straw (this drink should be drunk in one) , as the bottom of the glass is reached put out the fire by pouring the Baileys and Blue Curacao into the cocktail glass and keep drinking till it's all gone!!",
+            "es": "Verter la Sambuca y el Kahlua en la copa de coctel y dar al bebedor una pajita. Vierta el Baileys y el Blue Curacao en dos vasos de chupito de sepsrate a cada lado de la copa de coctel. Encienda la coccion en la copa de coctel y empiece a beber con la pajita (esta bebida debe beberse de un trago), cuando llegue al fondo de la copa apague el fuego vertiendo el Baileys y el Blue Curacao en la copa de coctel y siga bebiendo hasta que se acabe.",
+            "de": "Giessen Sie den Sambuca und Kahlua in das Cocktailglas und geben Sie dem Trinker einen Strohhalm. Giessen Sie die Baileys und den blauen Curacao in zwei getrennte Schnapsglaser auf beiden Seiten des Cocktailglases. Zunden Sie die Mischung im Cocktailglas an und beginnen Sie, durch den Strohhalm zu trinken (dieses Getrank sollte in einem getrunken werden), da der Boden des Glases erreicht wird, loschen Sie das Feuer, indem Sie die Baileys und Blue Curacao in das Cocktailglas giessen und weiter trinken, bis alles weg ist!",
+            "fr": "Verser la Sambuca et le Kahlua dans le verre a cocktail et donner une paille au buveur. Versez le Baileys et le Blue Curacao dans deux verres a shot sepsrate de part et d'autre du verre a cocktail. Allumez le melange dans le verre a cocktail et commencez a boire avec la paille (cette boisson doit etre bue en une seule fois). Lorsque vous atteignez le fond du verre, eteignez le feu en versant le Baileys et le Blue Curacao dans le verre a cocktail et continuez a boire jusqu'a ce qu'il n'y en ait plus !",
+            "it": "Versare la Sambuca e la Kahlua nel bicchiere da cocktail e dare una cannuccia al bevitore.\r\nVersare il Baileys e il Blue Curacao in due bicchierini separati su entrambi i lati del bicchiere da cocktail.\r\nAccendi la miscela nel bicchiere da cocktail e inizia a bere attraverso la cannuccia (questa bevanda dovrebbe essere bevuta in una volta sola), mentre il fondo del bicchiere viene raggiunto spegni il fuoco versando il Baileys e il Blue Curacao nel bicchiere da cocktail "
+        },
+        "DateModified": "2016-04-28 19:03:07",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/yywpss1461866587.jpg"
+    },
+    {
+        "CocktailID": "17213",
+        "Name": "French Martini",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Vodka - 4.5 cl",
+            "Raspberry Liqueur - 1.5 cl",
+            "pineapple juice - 1.5 cl"
+        ],
+        "Instructions": {
+            "en": "Pour all ingredients into shaker with ice cubes. Shake well and strain into a chilled cocktail glass. Squeeze oil from lemon peel onto the drink.",
+            "es": "Vierta todos los ingredientes en una coctelera con cubitos de hielo. Agitar bien y colar en una copa de coctel fria. Exprima el aceite de la cascara de limon sobre la bebida.",
+            "de": "Alle Zutaten in den Shaker mit Eiswurfeln geben. Gut schutteln und in ein gekuhltes Cocktailglas abseihen. Das Ol aus der Zitronenschale auf das Getrank drucken.",
+            "fr": "Verser tous les ingredients dans un shaker avec des glacons. Bien agiter et filtrer dans un verre a cocktail refrigere. Presser l'huile du zeste de citron sur la boisson.",
+            "it": "Versare tutti gli ingredienti direttamente in un bicchiere vecchio stile pieno di cubetti di ghiaccio.\r\nMescola delicatamente."
+        },
+        "DateModified": "2017-09-02 18:25:34",
+        "Tags": [
+            "NewEra",
+            "IBA"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/clth721504373134.jpg"
+    },
+    {
+        "CocktailID": "17248",
+        "Name": "French Negroni",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Martini Glass",
+        "Ingredients": [
+            "Gin - 30.0 ml",
+            "Lillet - 30.0 ml",
+            "Sweet Vermouth - 30.0 ml",
+            "Orange Peel - 1"
+        ],
+        "Instructions": {
+            "en": "Add ice to a shaker and pour in all ingredients.\nUsing a bar spoon, stir 40 to 45 revolutions or until thoroughly chilled.\nStrain into a martini glass or over ice into a rocks glass. Garnish with orange twist.",
+            "es": "Anada hielo a una coctelera y vierta todos los ingredientes.\r\nCon una cuchara de bar, agitar de 40 a 45 revoluciones o hasta que este bien frio.\r\nCuele en una copa de martini o sobre hielo en un vaso con hielo. Decorar con un twist de naranja.",
+            "de": "Fuge Eis in einen Shaker und giesse alle Zutaten ein. Ruhren Sie mit einem Barloffel 40 bis 45 Umdrehungen oder bis zur vollstandigen Abkuhlung. In ein Martini-Glas oder uber Eis in ein Rocks Glas abseihen. Mit Orangenspirale garnieren.",
+            "fr": "Mettre de la glace dans un shaker et y verser tous les ingredients.\nA l'aide d'une cuillere, remuer 40 a 45 tours ou jusqu'a ce que le produit soit bien frais.\nFiltrer dans un verre a martini ou dans un verre a glace. Garnir d'un zeste d'orange.",
+            "it": "Versare tutti gli ingredienti in uno shaker con cubetti di ghiaccio.\r\nShakerare bene e filtrare in una coppetta da cocktail fredda.\r\nSpremi l'olio dalla scorza di limone sulla bevanda."
+        },
+        "DateModified": "2017-12-19 17:06:07",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/x8lhp41513703167.jpg"
+    },
+    {
+        "CocktailID": "178352",
+        "Name": "Frose",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Rose - 750 ml",
+            "Sugar - 1/2 cup",
+            "Strawberries - 240.0 ml",
+            "Lemon Juice - 2-3 oz"
+        ],
+        "Instructions": {
+            "en": "Step 1\nPour rose into a 13x9\" pan and freeze until almost solid (it won't completely solidify due to the alcohol), at least 6 hours.\n\nStep 2\nMeanwhile, bring sugar and  1/2 cup water to a boil in a medium saucepan; cook, stirring constantly, until sugar dissolves, about 3 minutes. Add strawberries, remove from heat, and let sit 30 minutes to infuse syrup with strawberry flavor. Strain through a fine-mesh sieve into a small bowl (do not press on solids); cover and chill until cold, about 30 minutes.\n\nStep 3\nScrape rose into a blender. Add lemon juice, 3 1/2 ounces strawberry syrup, and 1 cup crushed ice and puree until smooth. Transfer blender jar to freezer and freeze until frose is thickened (aim for milkshake consistency), 25-35 minutes.\n\nStep 4\nBlend again until frose is slushy. Divide among glasses.\n\nStep 5\nDo Ahead: Rose can be frozen 1 week ahead.",
+            "es": "Paso 1\r\nVierta el rosado en un molde de 13x9\" y congelelo hasta que este casi solido (no se solidificara completamente debido al alcohol), al menos 6 horas.\r\n\r\nPaso 2\r\nMientras tanto, ponga a hervir el azucar y  1/2 taza de agua en un cazo mediano; cocine, removiendo constantemente, hasta que el azucar se disuelva, unos 3 minutos. Anada las fresas, retire del fuego y deje reposar 30 minutos para que el sirope adquiera el sabor a fresa. Paselo por un colador de malla fina a un bol pequeno (no presione los solidos); cubralo y refrigerelo hasta que se enfrie, unos 30 minutos.\r\n\r\nPaso 3\r\nPasar el rosado a una batidora. Anadir el zumo de limon, 3 1/2 onzas de sirope de fresa y 1 taza de hielo picado y triturar hasta obtener una mezcla homogenea. Pasar la jarra de la batidora al congelador y congelar hasta que el frose este espeso (para que tenga consistencia de batido), entre 25 y 35 minutos.\r\n\r\nPaso 4\r\nVolver a batir hasta que el frose este espumoso. Repartir en vasos.\r\n\r\nPaso 5\r\nPreparalo: El rosado se puede congelar con 1 semana de antelacion.",
+            "de": "Schritt 1\nGiessen Sie den Rose in eine 13x9-Zoll-Pfanne und lassen Sie ihn mindestens 6 Stunden lang einfrieren, bis er fast fest ist (er wird aufgrund des Alkohols nicht vollstandig fest).\n\nSchritt 2\nIn der Zwischenzeit Zucker und  1/2 Tasse Wasser in einem mittelgrossen Topf zum Kochen bringen; Unter standigem Ruhren kochen, bis sich der Zucker aufgelost hat, etwa 3 Minuten. Erdbeeren hinzufugen, vom Herd nehmen und 30 Minuten ruhen lassen, um dem Sirup den Erdbeergeschmack zu verleihen. Durch ein feinmaschiges Sieb in eine kleine Schussel abseihen (nicht auf Feststoffe drucken); abdecken und ca. 30 Minuten kalt stellen.\n\nSchritt 3\nRose in einen Mixer geben. Zitronensaft, 3 1/2 Unzen Erdbeersirup und 1 Tasse zerstossenes Eis hinzufugen und purieren, bis eine glatte Masse entsteht. Den Mixbehalter in den Gefrierschrank stellen und einfrieren, bis der Frose eingedickt ist (auf Milchshake-Konsistenz achten), 25-35 Minuten.\n\nSchritt 4\nNochmals mixen, bis der Frose matschig ist. Auf die Glaser verteilen.\n\nSchritt 5\nMachen Sie es im Voraus: Rose kann 1 Woche im Voraus eingefroren werden.",
+            "fr": "Etape 1\nVerser le rose dans un moule de 13 x 9 pouces et le congeler jusqu'a ce qu'il soit presque solide (il ne se solidifie pas completement a cause de l'alcool), pendant au moins 6 heures.\n\nEtape 2\nEntre-temps, porter le sucre et  1/2 tasse d'eau a ebullition dans une casserole moyenne ; cuire, en remuant constamment, jusqu'a ce que le sucre soit dissous, environ 3 minutes. Ajouter les fraises, retirer du feu et laisser reposer 30 minutes pour que le sirop s'impregne de la saveur des fraises. Filtrer a travers un tamis a mailles fines dans un petit bol (ne pas appuyer sur les solides) ; couvrir et refrigerer jusqu'a ce que le sirop soit froid, environ 30 minutes.\n\nEtape 3\nVerser le rose dans un melangeur. Ajouter le jus de citron, 3 1/2 onces de sirop de fraise et 1 tasse de glace pilee et reduire en puree jusqu'a consistance lisse. Transferer le recipient du melangeur au congelateur et congeler jusqu'a ce que le frose soit epaissi (viser la consistance d'un lait frappe), de 25 a 35 minutes.\n\nEtape 4\nMixer a nouveau jusqu'a ce que le frose soit mousseux. Repartir dans des verres.\n\nEtape 5\nA faire a l'avance : Le rose peut etre congele une semaine a l'avance.",
+            "it": "Passaggio 1\nVersare il rose in una padella da 13x9 pollici e congelare finche non sara quasi solido (non si solidifichera completamente a causa dell'alcol), almeno 6 ore.\n\nPassaggio 2\nNel frattempo, portare a ebollizione lo zucchero e  1/2 tazza d'acqua in una casseruola media; cuocere, mescolando continuamente, finche lo zucchero non si scioglie, circa 3 minuti. Aggiungere le fragole, togliere dal fuoco e lasciare riposare per 30 minuti per infondere lo sciroppo con il sapore di fragola. Filtrare attraverso un colino a maglia fine in una piccola ciotola (non premere sui solidi); coprire e raffreddare fino a freddo, circa 30 minuti.\n\nPassaggio 3\nRaschiare il rose in un frullatore. Aggiungere il succo di limone, 3 1/2 once di sciroppo di fragole e 1 tazza di ghiaccio tritato e ridurre in purea fino a ottenere un composto omogeneo. Trasferisci la caraffa del frullatore nel congelatore e congela finche il frose non si sara addensato (mira alla consistenza del frappe), 25-35 minuti.\n\nPassaggio 4\nFrullare nuovamente fino a quando il frose sara diventato una poltiglia. Dividi tra i bicchieri.\n\nPassaggio 5\nDo Ahead: il rose puo essere congelato 1 settimana prima."
+        },
+        "DateModified": null,
+        "Tags": [
+            "Cold",
+            " Frozen",
+            " Summer"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/b4cadp1619695347.jpg"
+    },
+    {
+        "CocktailID": "178328",
+        "Name": "Funk and Soul",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Collins glass",
+        "Ingredients": [
+            "Rum - 2 shots",
+            "Apricot Nectar - 1 shot",
+            "Pomegranate juice - 1 shot",
+            "lemon - Juice of 1/2",
+            "Soda Water - Top"
+        ],
+        "Instructions": {
+            "en": "Mix all ingredients together and strain into a Collins glass. Use Jamaican rum where possible for a more authentic taste.",
+            "es": "Mezcle todos los ingredientes y cuelelos en un vaso Collins. Utilice ron jamaicano siempre que sea posible para obtener un sabor mas autentico.",
+            "fr": "Melanger tous les ingredients et filtrer dans un verre Collins. Utilisez si possible du rhum jamaicain pour un gout plus authentique.",
+            "it": "Mescolare tutti gli ingredienti insieme e filtrare in un bicchiere Collins. Usa rum giamaicano, ove possibile, per un gusto piu autentico."
+        },
+        "DateModified": null,
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/qtv83q1596015790.jpg"
+    },
+    {
+        "CocktailID": "12758",
+        "Name": "Gagliardo",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Peach Vodka - 5 parts",
+            "Lemon juice - 3 parts",
+            "Galliano - 1 part",
+            "Sirup of roses - 1 part"
+        ],
+        "Instructions": {
+            "en": "Shake well and serve in a cocktail glass. This is a home cocktail of American/Internet Bar del Pozzo, Pavia, Italy.",
+            "es": "Agitar bien y servir en copa de coctel. Este es un coctel casero de American/Internet Bar del Pozzo, Pavia, Italia.",
+            "de": "Gut schutteln und in einem Cocktailglas servieren. Dies ist ein Cocktail aus American/Internet Bar del Pozzo, Pavia, Italien.",
+            "fr": "Bien agiter et servir dans un verre a cocktail. Il s'agit d'un cocktail maison de l'Americain/Internet Bar del Pozzo, Pavie, Italie.",
+            "it": "Shakerare bene e servire in una coppetta da cocktail.Questo e un cocktail casalingo dell'American / Internet Bar del Pozzo, Pavia, Italia."
+        },
+        "DateModified": "2017-02-20 15:01:18",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/lyloe91487602877.jpg"
+    },
+    {
+        "CocktailID": "178340",
+        "Name": "Garibaldi Negroni",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Gin - 30 ml",
+            "Campari - 30 ml",
+            "Orange Juice - 90 ml",
+            "Orange Peel - Garnish with"
+        ],
+        "Instructions": {
+            "en": "Mix together in a shaker and garnish with a simple orange slice. Fill your vitamin C and cocktail fix at the same time!",
+            "es": "Mezclalo todo en una coctelera y adornalo con una rodaja de naranja. !Llene su dosis de vitamina C y coctel al mismo tiempo!",
+            "de": "In einem Shaker vermischen und mit einer einfachen Orangenscheibe garnieren. Fullen Sie Ihren Vitamin C- und Cocktail-Fix gleichzeitig auf!",
+            "fr": "Melangez le tout dans un shaker et decorez avec une simple tranche d'orange. Faites le plein de vitamine C et de cocktails en meme temps !",
+            "it": "Mescolare in uno shaker e guarnire con una semplice fetta d'arancia. Riempi la tua dose di vitamina C e cocktail allo stesso tempo!"
+        },
+        "DateModified": null,
+        "Tags": [
+            "Orange"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/kb4bjg1604179771.jpg"
+    },
+    {
+        "CocktailID": "17255",
+        "Name": "Gimlet",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Martini Glass",
+        "Ingredients": [
+            "Gin - 75.0 ml",
+            "Lime Juice - 15.0 ml",
+            "Sugar Syrup - 15.0 ml",
+            "Lime - 1"
+        ],
+        "Instructions": {
+            "en": "Add all the ingredients to a shaker and fill with ice.\r\n\r\nShake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.\r\n\r\nGarnish with a lime wheel.",
+            "es": "Anada todos los ingredientes a una coctelera y llenela de hielo.\r\n\r\nAgitar y colar en una copa de coctel fria o en un vaso Old Fashioned lleno de hielo fresco.\r\n\r\nDecorar con una rueda de lima.",
+            "de": "Alle Zutaten in einen Shaker geben und mit Eis fullen. Schutteln und in ein gekuhltes Cocktailglas oder ein mit frischem Eis gefulltes Old Fashioned Glas abseihen. Mit einer Limettenscheibe garnieren.",
+            "fr": "Ajoutez tous les ingredients dans un shaker et remplissez-le de glace.\r\n\r\nSecouez et filtrez dans un verre a cocktail refrigere ou un verre Old Fashioned rempli de glace fraiche.\r\n\r\nGarnir d'une roue de citron vert.",
+            "it": "Aggiungere tutti gli ingredienti in uno shaker e riempire di ghiaccio, shakerare e filtrare in una coppetta da cocktail ghiacciata o in un bicchiere riempito con ghiaccio fresco."
+        },
+        "DateModified": "2017-12-19 18:14:32",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/3xgldt1513707271.jpg"
+    },
+    {
+        "CocktailID": "178342",
+        "Name": "Gin and Soda",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Gin - 60.0 ml",
+            "Soda Water - 150.0 ml",
+            "Lime - 1/4"
+        ],
+        "Instructions": {
+            "en": "Pour the Gin and Soda water into a highball glass almost filled with ice cubes.\nStir well.\nGarnish with the lime wedge.",
+            "es": "Vierta la ginebra y el agua de soda en un vaso highball casi lleno de cubitos de hielo.\r\nRemover bien.\r\nAdorne con la rodaja de lima.",
+            "de": "Giessen Sie Gin und Sodawasser in ein Longdrinkglas, das fast mit Eiswurfeln gefullt ist.\nGut umruhren.\nMit der Limettenscheibe garnieren.",
+            "fr": "Verser le Gin et l'eau gazeuse dans un verre highball presque rempli de glacons.\nBien melanger.\nDecorer avec le quartier de citron vert.",
+            "it": "Versare il Gin e l'acqua di seltz in un bicchiere highball riempito di cubetti di ghiaccio.\r\nMescolare bene.\r\nGuarnire con lo spicchio di lime."
+        },
+        "DateModified": null,
+        "Tags": [
+            "Clear",
+            "Alcoholic"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/nzlyc81605905755.jpg"
+    },
+    {
+        "CocktailID": "178314",
+        "Name": "Gin Basil Smash",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Gin - 6 cl",
+            "Lemon Juice - 2 cl",
+            "Sugar Syrup - 2 cl",
+            "Basil - Whole"
+        ],
+        "Instructions": {
+            "en": "Muddle Basil leaves (~ 10) with Suggar Syrup in a shaker. Add Gin an Lemon Juice.\r\nFilter and serve in a tumbler with ice",
+            "es": "Mezcle hojas de albahaca (~ 10) con sirope de azucar en una coctelera. Anadir ginebra y zumo de limon.\r\nFiltrar y servir en un vaso con hielo.",
+            "fr": "Melanger les feuilles de basilic (~ 10) avec le sirop de sucre dans un shaker. Ajouter du gin et du jus de citron.\r\nFiltrer et servir dans un gobelet avec des glacons.",
+            "it": "Pestare le foglie di basilico (~ 10) con lo sciroppo di zucchero in uno shaker. Aggiungi gin e succo di limone. Filtrare e servire in un tumbler con ghiaccio"
+        },
+        "DateModified": null,
+        "Tags": [
+            "Europe",
+            "Summer"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/jqh2141572807327.jpg"
+    },
+    {
+        "CocktailID": "178366",
+        "Name": "Gin Lemon",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Gin - 6 cl",
+            "Lemon Juice - 8 cl",
+            "Lemon Peel - 1 Slice",
+            "Ice - cubes"
+        ],
+        "Instructions": {
+            "en": "For the preparation of the gin lemon you will not need the shaker. Fill the tumbler with ice, pour the gin and lemonade over it. Gently mix and decorate with a slice of lemon. Those who prefer can also add a few mint leaves. Your gin lemon is ready to be served.",
+            "es": "Para la preparacion del gin lemon no necesitaras la coctelera. Llene el vaso con hielo, vierta la ginebra y la limonada por encima. Mezcle suavemente y decore con una rodaja de limon. Los que lo prefieran tambien pueden anadir unas hojas de menta. Su gin lemon esta listo para servir.",
+            "de": "Fur die Zubereitung des Gin Lemon benotigen Sie den Shaker nicht. Tumbler mit Eis fullen, Gin und Limonade daruber giessen. Vorsichtig mischen und mit einer Zitronenscheibe dekorieren. Wer mochte, kann auch noch ein paar Minzblatter hinzugeben. Ihr Gin Lemon ist servierfertig.",
+            "fr": "Pour la preparation du gin-citron, vous n'aurez pas besoin du shaker. Remplissez le gobelet de glace, versez-y le gin et la limonade. Melangez delicatement et decorez avec une tranche de citron. Ceux qui preferent peuvent egalement ajouter quelques feuilles de menthe. Votre gin-citron est pret a etre servi.",
+            "it": "Per la preparazione del gin lemon non vi servira lo shaker. Riempite il tumbler con il ghiaccio, versateci sopra il gin e la limonata. Mescolate delicatamente e decorate con una fetta di limone. Chi preferisce potra aggiungere anche qualche fogliolina di menta. Il vostro gin lemon e pronto per essere servito."
+        },
+        "DateModified": null,
+        "Tags": [
+            "simple",
+            " classic",
+            " refreshing"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/6gdohq1681212476.jpg"
+    },
+    {
+        "CocktailID": "17230",
+        "Name": "Gin Rickey",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Gin - 60.0 ml",
+            "Grenadine - 1 tsp",
+            "lemon - Juice of 1/2",
+            "Soda Water - Top up with",
+            "Lime - Garnish"
+        ],
+        "Instructions": {
+            "en": "Half-fill a tall glass with ice. Mix the gin and Grenadine together and pour over the ice. Add the lime or lemon juice and top off with soda water. Decorate the glass with lime and/or lemon slices.",
+            "es": "Llene hasta la mitad un vaso alto con hielo. Mezcle la ginebra y la granadina y viertalo sobre el hielo. Anada el zumo de lima o limon y complete con soda. Decore el vaso con rodajas de lima y/o limon.",
+            "de": "Fullen Sie ein hohes Glas halb mit Eis. Gin und Grenadine vermischen und uber das Eis giessen. Limetten- oder Zitronensaft hinzufugen und mit Sodawasser auffullen. Das Glas mit Limetten- und/oder Zitronenscheiben dekorieren.",
+            "fr": "Remplir a moitie un grand verre de glace. Melanger le gin et la grenadine et verser sur la glace. Ajoutez le jus de citron ou de lime et completez avec de l'eau gazeuse. Decorez le verre avec des tranches de citron et/ou de lime.",
+            "it": "Riempi a meta un bicchiere alto di ghiaccio.\r\nMescolare il gin e la Grenadine e versare sul ghiaccio.\r\nAggiungere il succo di lime o limone e completare con acqua gassata.\r\nDecorare il bicchiere con lime e / o fettine di limone."
+        },
+        "DateModified": "2017-09-08 16:19:05",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/s00d6f1504883945.jpg"
+    },
+    {
+        "CocktailID": "178365",
+        "Name": "Gin Tonic",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Gin - 4 cl",
+            "Tonic Water - 10 cl",
+            "Lemon Peel - 1 Slice",
+            "Ice - cubes"
+        ],
+        "Instructions": {
+            "en": "Fill a highball glass with ice, pour the gin, top with tonic water and squeeze a lemon wedge and garnish with a lemon wedge.",
+            "es": "Llenar un vaso highball con hielo, verter la ginebra, completar con agua tonica y exprimir una rodaja de limon y decorar con una rodaja de limon.",
+            "de": "Fullen Sie ein Highball-Glas mit Eis, giessen Sie den Gin ein, giessen Sie Tonic Water daruber und drucken Sie eine Zitronenscheibe aus und garnieren Sie sie mit einer Zitronenscheibe.",
+            "fr": "Remplissez un verre highball de glace, versez le gin, completez avec de l'eau tonique, pressez un quartier de citron et decorez avec un quartier de citron.",
+            "it": "Colmate un bicchiere highball di ghiaccio, versate il gin, colmate con acqua tonica e spremete uno spicchio di limone e guarnite con una fetta di limone. "
+        },
+        "DateModified": null,
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/qcgz0t1643821443.jpg"
+    },
+    {
+        "CocktailID": "17252",
+        "Name": "Greyhound",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Collins glass",
+        "Ingredients": [
+            "Vodka - 45.0 ml",
+            "Grapefruit Juice - 90.0 ml"
+        ],
+        "Instructions": {
+            "en": "Add the vodka to a Collins glass filled with ice.\nTop with grapefruit juice and stir.\n\n",
+            "es": "Anada el vodka a un vaso Collins lleno de hielo.\r\nAnada zumo de pomelo y remueva.\r\n\r\n",
+            "de": "Den Wodka in ein mit Eis gefulltes Collins-Glas geben. Mit Grapefruitsaft ubergiessen und umruhren.",
+            "fr": "Ajouter la vodka dans un verre Collins rempli de glace.\nCompleter avec du jus de pamplemousse et remuer.\n\n",
+            "it": "Versa la vodka in un bicchiere Collins pieno di ghiaccio, aggiungi il succo di pompelmo e mescola."
+        },
+        "DateModified": "2017-12-19 18:05:32",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/g5upn41513706732.jpg"
+    },
+    {
+        "CocktailID": "178316",
+        "Name": "Honey Bee",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Margarita glass",
+        "Ingredients": [
+            "White Rum - 6 cl",
+            "Honey - 2 cl",
+            "Lemon Juice - 2 cl"
+        ],
+        "Instructions": {
+            "en": "Shake ingredients with crushed ice\r\n",
+            "es": "Agitar los ingredientes con hielo picado\r\n",
+            "fr": "Secouer les ingredients avec de la glace pilee\r\n",
+            "it": "Shakerare gli ingredienti con ghiaccio tritato"
+        },
+        "DateModified": null,
+        "Tags": [
+            "Sweet"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/vu8l7t1582475673.jpg"
+    },
+    {
+        "CocktailID": "178345",
+        "Name": "Hot Toddy",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Irish coffee cup",
+        "Ingredients": [
+            "Whiskey - 50 ml",
+            "Honey - 15 ml",
+            "Cinnamon - 1",
+            "lemon - 1",
+            "Cloves - 2"
+        ],
+        "Instructions": {
+            "en": "STEP 1\r\nWhisk the whisky and honey together and split between 2 heatproof glasses. Add half of the cinnamon stick to each, then top up with 200ml boiling water.\r\n\r\nSTEP 2\r\nAdd a splash of lemon juice to each, then taste and add more to your preference. Finish each with a slice of lemon, studded with a clove, and serve immediately.",
+            "es": "PASO 1\r\nBata el whisky y la miel y repartalos en 2 vasos refractarios. Anada la mitad de la rama de canela a cada uno y, a continuacion, anada 200 ml de agua hirviendo.\r\n\r\nPASO 2\r\nAnada un chorrito de zumo de limon a cada vaso, pruebelo y anada el zumo que prefiera. Termine cada uno con una rodaja de limon, salpicada con un clavo, y sirva inmediatamente.",
+            "fr": "ETAPE 1\r\nFouettez le whisky et le miel ensemble et repartissez-les dans deux verres resistants a la chaleur. Ajoutez la moitie du baton de cannelle dans chaque verre, puis completez avec 200 ml d'eau bouillante.\r\n\r\nETAPE 2\r\nAjoutez un filet de jus de citron dans chaque verre, puis goutez et ajoutez-en selon vos preferences. Terminez chaque verre par une tranche de citron piquee d'un clou de girofle et servez immediatement.",
+            "it": "PASSO 1\r\nSbatti il whisky e il miele insieme e dividi in 2 bicchieri. Aggiungere meta della stecca di cannella a ciascuna, quindi rabboccare con 200 ml di acqua bollente.\r\n\r\nPASSO 2\r\nAggiungi una spruzzata di succo di limone a ciascuno, quindi assaggia e aggiungi altro a tua preferenza. Terminate ciascuna con una fetta di limone, guarnire con uno spicchio, e servite subito."
+        },
+        "DateModified": null,
+        "Tags": [
+            "Winter"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/ggx0lv1613942306.jpg"
+    },
+    {
+        "CocktailID": "17239",
+        "Name": "Hunter's Moon",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Balloon Glass",
+        "Ingredients": [
+            "Vermouth - 25 ml",
+            "Maraschino Cherry - 15 ml",
+            "Sugar Syrup - 10 ml",
+            "Lemonade - 100 ml",
+            "Blackberries - 2"
+        ],
+        "Instructions": {
+            "en": "Put the Bombay Sapphire, Martini Bianco, sugar syrup & blackberries in a cocktail shaker with lots of ice and shake vigorously before pouring into a balloon glass, topping up with lemonade and garnishing with a wedge of orange.",
+            "es": "Ponga el Bombay Sapphire, el Martini Bianco, el sirope de azucar y las moras en una coctelera con mucho hielo y agite energicamente antes de verter en una copa globo, completar con limonada y decorar con un gajo de naranja.",
+            "de": "Den Bombay Saphir, Martini Bianco, Zuckersirup & Brombeeren in einen Cocktailshaker mit viel Eis geben und kraftig schutteln, bevor man sie in ein Ballonglas giesst, mit Limonade auffullt und mit einem Stuck Orange garniert.",
+            "fr": "Mettez le Bombay Sapphire, le Martini Bianco, le sirop de sucre et les mures dans un shaker avec beaucoup de glace et secouez vigoureusement avant de verser dans un verre ballon, de completer avec de la limonade et de decorer avec un quartier d'orange.",
+            "it": "Mettere il Bombay Sapphire, il Martini Bianco, lo sciroppo di zucchero e le more in uno shaker con molto ghiaccio e agitare energicamente prima di versare in un bicchiere a palloncino, rabboccare con limonata e guarnire con uno spicchio di arancia."
+        },
+        "DateModified": "2017-11-01 17:18:32",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/t0iugg1509556712.jpg"
+    },
+    {
+        "CocktailID": "12706",
+        "Name": "Imperial Cocktail",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Lime juice - 4 cl",
+            "Gin - 2 cl",
+            "Aperol - 4 cl"
+        ],
+        "Instructions": {
+            "en": "Shake with ice and strain into cocktail glass.",
+            "es": "Agitar con hielo y colar en copa de coctel.",
+            "de": "Mit Eis schutteln und in ein Cocktailglas abseihen.",
+            "fr": "Agiter avec de la glace et filtrer dans un verre a cocktail.",
+            "it": "Shakerare con ghiaccio e filtrare nella coppetta da cocktail."
+        },
+        "DateModified": "2017-02-20 15:13:45",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/bcsj2e1487603625.jpg"
+    },
+    {
+        "CocktailID": "16987",
+        "Name": "Irish Curdling Cow",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Baileys irish cream - 22.5 ml",
+            "Bourbon - 22.5 ml",
+            "Vodka - 22.5 ml",
+            "Orange juice - 2-3 oz"
+        ],
+        "Instructions": {
+            "en": "Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.",
+            "es": "Vierta la crema irlandesa, el vodka y el bourbon en un vaso. Anade un poco de hielo y mezcla con el zumo de naranja.",
+            "de": "Geben Sie Irish Cream, Wodka und Bourbon in ein Glas. Etwas Eis dazugeben und den Orangensaft unterruhren.",
+            "fr": "Verser la creme irlandaise, la vodka et le bourbon dans un verre. Ajoutez des glacons et melangez avec le jus d'orange.",
+            "it": "Versare Irish Cream, Vodka e Bourbon in un bicchiere.\r\nAggiungere un po' di ghiaccio e mescolare il succo d'arancia."
+        },
+        "DateModified": "2017-08-24 09:35:30",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/yrhutv1503563730.jpg"
+    },
+    {
+        "CocktailID": "16178",
+        "Name": "Jitterbug",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail Glass",
+        "Ingredients": [
+            "Gin - 2 jiggers",
+            "Vodka - 1 jigger",
+            "Grenadine - 3 dashes",
+            "Lime juice - 1 shot",
+            "Sugar - Around rim put 1 pinch",
+            "Sugar syrup - 3 dashes",
+            "Soda water - Fill to top with"
+        ],
+        "Instructions": {
+            "en": "Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that simple!",
+            "es": "Moje el vaso, sumerja el borde en azucar. A continuacion, anada hielo. Luego anada todo lo demas. Asi de sencillo.",
+            "de": "Feuchtes Glas, Tauchrand in Zucker. Dann fugen Sie Eis hinzu. Dann fuge alles andere hinzu. So einfach ist das!",
+            "fr": "Mouiller le verre, tremper le bord dans le sucre. Ajouter ensuite de la glace. Puis ajouter tout le reste. C'est aussi simple que cela !",
+            "it": "Bagna il biicchiere, immergere il bordo nello zucchero.\r\nQuindi aggiungi ghiaccio.\r\nQuindi aggiungi tutto il resto.\r\nE cosi semplice!"
+        },
+        "DateModified": "2015-09-03 02:55:18",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/wwqvrq1441245318.jpg"
+    },
+    {
+        "CocktailID": "178359",
+        "Name": "Kiwi Martini",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Kiwi - 1/2",
+            "Sugar Syrup - 1 tsp",
+            "Vodka - 45.0 ml",
+            "Kiwi - Garnish with"
+        ],
+        "Instructions": {
+            "en": "The kiwi martini is a very fun vodka cocktail and it is one of the best drinks that makes use of fresh fruit. Though there are a few recipes floating around, this is one of the easiest and it is an absolutely delightful green martini to drink.\n\nFor this recipe, you'll simply muddle slices of kiwi with simple syrup, then shake it with vodka. It's a drink that anyone can mix up in minutes and a perfect cocktail to show off your favorite vodka.",
+            "es": "El martini de kiwi es un coctel de vodka muy divertido y una de las mejores bebidas que utilizan fruta fresca. Aunque hay algunas recetas circulando por ahi, esta es una de las mas faciles y es un martini verde absolutamente delicioso de beber.\r\n\r\nPara esta receta, basta con mezclar rodajas de kiwi con sirope simple y agitarlo con vodka. Es una bebida que cualquiera puede preparar en minutos y un coctel perfecto para presumir de tu vodka favorito.",
+            "de": "Der Kiwi Martini ist ein sehr lustiger Wodka-Cocktail und eines der besten Getranke, bei dem frisches Obst verwendet wird. Obwohl es ein paar Rezepte gibt, ist dies eines der einfachsten und ein absolut kostlicher gruner Martini zum Trinken.\n\nFur dieses Rezept vermischen Sie einfach Kiwischeiben mit Zuckersirup und schutteln sie dann mit Wodka. Es ist ein Getrank, das jeder in wenigen Minuten mixen kann, und ein perfekter Cocktail, um Ihren Lieblingswodka zur Geltung zu bringen.",
+            "fr": "Le martini au kiwi est un cocktail a la vodka tres amusant et l'une des meilleures boissons a base de fruits frais. Bien qu'il existe plusieurs recettes, celle-ci est l'une des plus faciles a realiser et c'est un martini vert absolument delicieux a boire.\n\nPour cette recette, il suffit de melanger des tranches de kiwi avec du sirop simple, puis de secouer le tout avec de la vodka. C'est une boisson que tout le monde peut preparer en quelques minutes et un cocktail parfait pour mettre en valeur votre vodka preferee.",
+            "it": "Il kiwi martini e un cocktail a base di vodka molto divertente ed e uno dei migliori drink a base di frutta fresca. Anche se ci sono alcune ricette in giro, questa e una delle piu facili ed e un martini verde assolutamente delizioso da bere.\n\nPer questa ricetta, dovrai semplicemente confondere le fette di kiwi con lo sciroppo e poi shakerarle con la vodka. E un drink che chiunque puo preparare in pochi minuti ed e un cocktail perfetto per esaltare la tua vodka preferita."
+        },
+        "DateModified": null,
+        "Tags": [
+            "Green",
+            " Sharp"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/bmxmyq1630407098.jpg"
+    },
+    {
+        "CocktailID": "178335",
+        "Name": "Lazy Coconut Paloma",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Coconut Liqueur - 30 ml",
+            "Grapefruit Juice - 75 ml",
+            "Soda Water - Top"
+        ],
+        "Instructions": {
+            "en": "Mix the coconut liqueur (preferably tequila) with the grapefruit juice and top with soda water. Garnish with a large grapefruit slice against the inside of the glass.",
+            "es": "Mezclar el licor de coco (preferiblemente tequila) con el zumo de pomelo y completar con agua de soda. Decorar con una rodaja grande de pomelo en el interior del vaso.",
+            "fr": "Melanger la liqueur de noix de coco (de preference la tequila) avec le jus de pamplemousse et completer avec de l'eau gazeuse. Garnir d'une grosse tranche de pamplemousse contre l'interieur du verre.",
+            "it": "Mescolare il liquore al cocco (preferibilmente tequila) con il succo di pompelmo e guarnire con acqua di seltz. Versare una grossa fetta di pompelmo dentro il bicchiere."
+        },
+        "DateModified": null,
+        "Tags": [
+            "Lazy",
+            " Sharp"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/rytuex1598719770.jpg"
+    },
+    {
+        "CocktailID": "14366",
+        "Name": "Lemon Drop",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Vodka - 1 1/2 shot",
+            "Cointreau - 1 1/2 shot",
+            "Lemon - Juice of 1 wedge"
+        ],
+        "Instructions": {
+            "en": "Shake and strain into a chilled cocktail glass rimmed with sugar.",
+            "es": "Agitar y colar en una copa de coctel fria con borde de azucar.",
+            "de": "Schutteln und abseihen in ein gekuhltes Cocktailglas mit Zuckerrand.",
+            "fr": "Secouer et filtrer dans un verre a cocktail refrigere, borde de sucre.",
+            "it": "Shakerare e filtrare in un bicchiere da cocktail ghiacciato bordato di zucchero."
+        },
+        "DateModified": "2017-09-02 18:28:17",
+        "Tags": [
+            "IBA",
+            "NewEra"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/mtpxgk1504373297.jpg"
+    },
+    {
+        "CocktailID": "178360",
+        "Name": "Lemon Elderflower Spritzer",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Elderflower cordial - 2 tsp",
+            "Vodka - 1 shot",
+            "Soda Water - 1/3 cup",
+            "Fresh Lemon Juice - Top"
+        ],
+        "Instructions": {
+            "en": "Pour all ingredients over ice, stir and enjoy!\r\n",
+            "es": "Vierte todos los ingredientes sobre hielo, remueve y !a disfrutar!\r\n",
+            "de": "Alle Zutaten auf Eis giessen, umruhren und geniessen!",
+            "fr": "Versez tous les ingredients sur des glacons, remuez et degustez !\r\n",
+            "it": "Versare tutti gli ingredienti sul ghiaccio, mescolare e buon appetito!"
+        },
+        "DateModified": null,
+        "Tags": [
+            "Summer",
+            " Fresh",
+            " Refreshing"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/125w0o1630407389.jpg"
+    },
+    {
+        "CocktailID": "15224",
+        "Name": "Malibu Twister",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Malibu rum - 2 parts",
+            "Tropicana - 2 parts",
+            "Cranberry juice - 1 part"
+        ],
+        "Instructions": {
+            "en": "Add rum & trister then, add cranberry jucie,stir",
+            "es": "Anada el ron y el licor y, a continuacion, anada el zumo de arandanos y remueva.",
+            "de": "Rum und Trister hinzufugen, Preiselbeersaft zugeben, umruhren.",
+            "fr": "Ajouter le rhum et le trister, puis le jus de canneberge et melanger.",
+            "it": "Aggiungere rum e la bevanda tropicana quindi, aggiungere il succo di mirtillo rosso, mescolare"
+        },
+        "DateModified": "2017-09-08 16:42:01",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/2dwae41504885321.jpg"
+    },
+    {
+        "CocktailID": "178358",
+        "Name": "Mango Mojito",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Jar",
+        "Ingredients": [
+            "Lime - 3",
+            "Mango - 1 Fresh",
+            "Mint - Sprig",
+            "White Rum - 200 ml",
+            "Ice - cubes",
+            "Soda Water - Top",
+            "Mango - Garnish with"
+        ],
+        "Instructions": {
+            "en": "Squeeze the juice from 1 1/2 limes and blend with the mango to give a smooth puree.\nCut the rest of the limes into quarters, and then cut each wedge in half again. Put 2 pieces of lime in a highball glass for each person and add 1 teaspoon of caster sugar and 5-6 mint leaves to each glass. Squish everything together with a muddler or the end of a rolling pin to release all the flavours from the lime and mint.\nDivide the mango puree between the glasses and add 30ml white rum and a handful of crushed ice to each one, stirring well to mix everything together. Top up with soda water to serve and garnish with extra mint, if you like.",
+            "es": "Exprimir el zumo de 1 1/2 limas y mezclarlo con el mango para obtener un pure suave.\r\nCorte el resto de las limas en cuartos y, a continuacion, vuelva a cortar cada gajo por la mitad. Ponga 2 trozos de lima en un vaso alto para cada persona y anada 1 cucharadita de azucar glas y 5-6 hojas de menta a cada vaso. Aplastelo todo con un batidor o con la punta de un rodillo para liberar todos los sabores de la lima y la menta.\r\nDivida el pure de mango entre los vasos y anada 30 ml de ron blanco y un punado de hielo picado a cada uno, removiendo bien para mezclarlo todo. Completar con agua con gas para servir y decorar con mas menta, si se desea.",
+            "de": "Den Saft von 1 1/2 Limetten auspressen und mit der Mango zu einem glatten Puree vermischen.",
+            "fr": "Presser le jus de 1 1/2 citron vert et le mixer avec la mangue pour obtenir une puree lisse.\nCouper le reste des citrons verts en quatre, puis couper a nouveau chaque quartier en deux. Mettez 2 morceaux de citron vert dans un verre highball pour chaque personne et ajoutez 1 cuillere a cafe de sucre en poudre et 5-6 feuilles de menthe dans chaque verre. Pressez le tout a l'aide d'un mixeur ou de l'extremite d'un rouleau a patisserie pour liberer tous les aromes du citron vert et de la menthe.\nRepartissez la puree de mangue dans les verres et ajoutez 30 ml de rhum blanc et une poignee de glace pilee dans chacun d'eux, en remuant bien pour melanger le tout. Completez avec de l'eau gazeuse pour servir et decorez avec de la menthe supplementaire, si vous le souhaitez.",
+            "it": "Spremete il succo di 1 lime e mezzo e frullatelo con il mango per ottenere una purea omogenea.\nTagliare il resto dei lime in quarti, quindi tagliare nuovamente ogni spicchio a meta. Metti 2 pezzi di lime in un bicchiere highball per ogni persona e aggiungi 1 cucchiaino di zucchero semolato e 5-6 foglie di menta in ogni bicchiere. Schiacciate il tutto con un pestello o con l'estremita di un mattarello per far sprigionare tutti i sapori del lime e della menta.\nDividete la purea di mango nei bicchieri e aggiungete in ognuno 30 ml di rum bianco e una manciata di ghiaccio tritato, mescolando bene per amalgamare il tutto. Rabboccare con acqua gassata per servire e guarnire con menta extra, se lo si desidera."
+        },
+        "DateModified": null,
+        "Tags": [
+            "Fruity"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/wfqmgm1630406820.jpg"
+    },
+    {
+        "CocktailID": "11008",
+        "Name": "Manhattan",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Sweet Vermouth - 22.5 ml",
+            "Bourbon - 75.0 ml",
+            "Angostura bitters - dash",
+            "Ice - 2 or 3",
+            "Maraschino cherry - 1",
+            "Orange peel - 1 twist of"
+        ],
+        "Instructions": {
+            "en": "Stirred over ice, strained into a chilled glass, garnished, and served up.",
+            "es": "Se remueve con hielo, se cuela en un vaso frio, se adorna y se sirve.",
+            "de": "Uber Eis geruhrt, in ein gekuhltes Glas geseiht, garniert und serviert.",
+            "fr": "Remuer avec de la glace, filtrer dans un verre refrigere, garnir et servir.",
+            "it": "Mescolate su ghiaccio, filtrate in un bicchiere freddo, guarnite e servite."
+        },
+        "DateModified": "2017-09-02 12:07:09",
+        "Tags": [
+            "IBA",
+            "Classic",
+            "Alcoholic"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/yk70e31606771240.jpg"
+    },
+    {
+        "CocktailID": "17256",
+        "Name": "Martinez 2",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Gin - 45.0 ml",
+            "Sweet Vermouth - 45.0 ml",
+            "Maraschino Liqueur - 1 tsp",
+            "Angostura Bitters - 2 dashes"
+        ],
+        "Instructions": {
+            "en": "Add all ingredients to a mixing glass and fill with ice.\r\n\r\nStir until chilled, and strain into a chilled coupe glass.",
+            "es": "Anada todos los ingredientes a un vaso mezclador y llenelo de hielo.\r\n\r\nRemover hasta que se enfrie y colar en una copa coupe fria.",
+            "de": "Alle Zutaten in ein Mischglas geben und mit Eis fullen. Bis zum Abkuhlen umruhren und in ein gekuhltes Coupeglas abseihen.",
+            "fr": "Ajoutez tous les ingredients dans un verre a melange et remplissez-le de glace.\r\n\r\nRemuer jusqu'a refroidissement et filtrer dans un verre a coupe.",
+            "it": "Aggiungere tutti gli ingredienti in un mixing glass e riempire di ghiaccio, mescolare fino a quando si saranno raffreddati e filtrare in un bicchiere da coupe freddo."
+        },
+        "DateModified": "2017-12-19 18:34:15",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/fs6kiq1513708455.jpg"
+    },
+    {
+        "CocktailID": "11720",
+        "Name": "Martinez Cocktail",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Gin - 30.0 ml",
+            "Dry Vermouth - 30.0 ml",
+            "Triple sec - 1/4 tsp",
+            "Orange bitters - 1 dash",
+            "Cherry - 1"
+        ],
+        "Instructions": {
+            "en": "Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.",
+            "es": "Remover todos los ingredientes (excepto la cereza) con hielo y colar en una copa de coctel. Cubrir con la cereza y servir.",
+            "de": "Alle Zutaten (ausser Kirsche) mit Eis verruhren und in ein Cocktailglas abseihen. Mit der Kirsche garnieren und servieren.",
+            "fr": "Melanger tous les ingredients (sauf la cerise) avec de la glace et filtrer dans un verre a cocktail. Completer avec la cerise et servir.",
+            "it": "Mescolare tutti gli ingredienti (tranne la ciliegia) con ghiaccio e filtrare in una coppetta da cocktail.Completare con la ciliegia e servire."
+        },
+        "DateModified": "2015-08-18 15:00:52",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/wwxwvr1439906452.jpg"
+    },
+    {
+        "CocktailID": "11728",
+        "Name": "Martini",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Gin - 49.99999999999999 ml",
+            "Dry Vermouth - 10.0 ml",
+            "Olive - 1"
+        ],
+        "Instructions": {
+            "en": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
+            "es": "Derecho: Vierta todos los ingredientes en un vaso mezclador con cubitos de hielo. Remover bien. Colar en una copa de martini fria. Exprima el aceite de la cascara de limon sobre la bebida, o decore con aceitunas.",
+            "de": "Direkt: Alle Zutaten in ein Mischglas mit Eiswurfeln geben. Gut umruhren. In einem gekuhlten Martini-Cocktailglas abseihen. Den Saft aus der Zitronenschale auf das Getrank drucken oder mit Olive garnieren.",
+            "fr": "Droit : Verser tous les ingredients dans un verre a melange avec des glacons. Bien melanger. Filtrer dans un verre a cocktail martini refrigere. Presser l'huile du zeste de citron sur la boisson ou decorer d'une olive.",
+            "it": "Versare tutti gli ingredienti nel mixing glass con cubetti di ghiaccio. Mescolare bene. Spremi la scorza di limone sulla bevanda o guarnisci con l'oliva.Filtrare in una coppetta da cocktail Martini ghiacciata. "
+        },
+        "DateModified": "2017-09-02 12:51:35",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg"
+    },
+    {
+        "CocktailID": "17188",
+        "Name": "Mary Pickford",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Light rum - 45.0 ml",
+            "Pineapple juice - 30.0 ml",
+            "Maraschino liqueur - 1/2 tsp",
+            "Grenadine - 1/2 tsp",
+            "Maraschino cherry - 1"
+        ],
+        "Instructions": {
+            "en": "Shake and strain into a chilled large cocktail glass",
+            "es": "Agitar y colar en una copa de coctel grande fria",
+            "de": "Schutteln und abseihen in ein gekuhltes grosses Cocktailglas.",
+            "fr": "Agiter et filtrer dans un grand verre a cocktail bien frais.",
+            "it": "Shakerare e filtrare in una grande coppetta da cocktail fredda"
+        },
+        "DateModified": "2017-09-02 12:09:17",
+        "Tags": [
+            "IBA",
+            "Classic"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/f9erqb1504350557.jpg"
+    },
+    {
+        "CocktailID": "178370",
+        "Name": "Mauresque",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Collins glass",
+        "Ingredients": [
+            "Ricard - 3 cl",
+            "Orgeat Syrup - 1 cl",
+            "Water - Full Glass",
+            " - ",
+            " - ",
+            " - ",
+            " - "
+        ],
+        "Instructions": {
+            "en": "1 - Pour the Ricard (or pastis)\n2 - Pour the orgeat syrup\n3 - Finally pour the water and add ice cubes at your convenience.\n\nAdd the ice cubes at the end, otherwise the syrup and pastis do not mix well.",
+            "es": "1 - Vierta el Ricard (o pastis)\n2 - Vierta el sirope de orgeat\n3 - Por ultimo, vierta el agua y anada cubitos de hielo a su gusto.\n\nAnada los cubitos de hielo al final, de lo contrario el sirope y el pastis no se mezclan bien.",
+            "de": "1 - Ricard (oder Pastis) einschenken\n2 - Den Orgeatsirup einfullen\n3 - Zum Schluss giessen Sie das Wasser ein und fugen nach Belieben Eiswurfel hinzu.\n\nZum Schluss die Eiswurfel dazugeben, sonst vermischen sich Sirup und Pastis nicht gut.",
+            "fr": "1 - Verser le Ricard (ou le pastis)\n2 - Versez le sirop d'orgeat\n3 - Versez enfin l'eau et ajoutez des glacons a votre convenance.\n\nAjoutez les glacons a la fin, sinon le sirop et le pastis ne se melangent pas bien.",
+            "it": "1 - Versare il Ricard (o il pastis)\n2 - Versare lo sciroppo d'orzata\n3 - Versare infine l'acqua e aggiungere cubetti di ghiaccio a piacimento.\n\nAggiungere alla fine i cubetti di ghiaccio, altrimenti sciroppo e pastis non si amalgamano bene."
+        },
+        "DateModified": null,
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/duwfa11686236556.jpg"
+    },
+    {
+        "CocktailID": "13936",
+        "Name": "Miami Vice",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "151 proof rum - 150.0 ml",
+            "Pina colada mix - frozen",
+            "Daiquiri mix - frozen"
+        ],
+        "Instructions": {
+            "en": "First: Mix pina colada with 2.5 oz. of rum with ice(set aside). Second: Mix daiquiri with 2.5 oz. of rum with ice. Third: While frozen, add pina colda mix then daiquiri mix in glass (Making sure they do not get mixed together).",
+            "es": "Primero: Mezclar la pina colada con 2,5 onzas de ron con hielo (reservar). Segundo: Mezclar el daiquiri con 2,5 onzas de ron y hielo. Tercero: Mientras esta congelado, anada la mezcla de pina colada y luego la de daiquiri en el vaso (asegurandose de que no se mezclen).",
+            "de": "Zuerst: Pina Colada mit 7,5 cl. Rum und Eis mischen (beiseite legen). Zweitens: Daiquiri mit 7,5 cl. Rum und Eis mischen. Drittens: Im gefrorenen Zustand Pina Colda-Mix hinzufugen, dann Daiquiri in Glas mischen (Achten Sie darauf, dass sie nicht miteinander vermischt werden).",
+            "fr": "Premierement, melanger la pina colada avec 2,5 oz de rhum et des glacons : Melanger la pina colada avec 2,5 oz de rhum et de la glace (mettre de cote). Deuxiemement : Melanger le daiquiri avec 2,5 oz de rhum et de la glace. Troisiemement : pendant que le verre est gele, ajouter le melange de pina colada puis le melange de daiquiri dans le verre (en veillant a ce qu'ils ne se melangent pas).",
+            "it": "Primo: mescola la pina colada con 75ml di rum con ghiaccio (mettere da parte).\r\nSecondo: mescola daiquiri con 75ml di rum con ghiaccio.\r\nTerzo: mentre e freddo, aggiungi il mix di pina colada e poi i daiquiri nel bicchiere (assicurandoti che non si mescolino insieme)."
+        },
+        "DateModified": "2015-09-02 16:49:15",
+        "Tags": [
+            "IBA"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/qvuyqw1441208955.jpg"
+    },
+    {
+        "CocktailID": "178343",
+        "Name": "Michelada",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Pint glass",
+        "Ingredients": [
+            "Beer - 120.0 ml",
+            "Tomato Juice - 120.0 ml",
+            "Lime Juice - 1 tblsp",
+            "Hot Sauce - Dash",
+            "Worcestershire Sauce - Dash",
+            "Soy Sauce - Dash"
+        ],
+        "Instructions": {
+            "en": "Mix the beer with tomato juice, freshly squeezed lime juice, and Worcestershire sauce, teriyaki sauce, soy sauce, or hot sauce.\r\nServed In a chilled, salt-rimmed glass\r\n",
+            "es": "Mezcle la cerveza con zumo de tomate, zumo de lima recien exprimido y salsa Worcestershire, salsa teriyaki, salsa de soja o salsa picante.\r\nSe sirve en un vaso frio con borde de sal.\r\n",
+            "fr": "Melanger la biere avec du jus de tomate, du jus de citron vert fraichement presse et de la sauce Worcestershire, de la sauce teriyaki, de la sauce soja ou de la sauce piquante.\r\nServi dans un verre refrigere a bord sale.\r\n",
+            "it": "Mescola la birra con succo di pomodoro, succo di lime appena spremuto e salsa Worcestershire, salsa teriyaki, salsa di soia o salsa piccante.\r\nServito in un bicchiere ghiacciato bordato di sale"
+        },
+        "DateModified": null,
+        "Tags": [
+            "Hangover",
+            "StrongFlavor",
+            "Breakfast"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/u736bd1605907086.jpg"
+    },
+    {
+        "CocktailID": "14842",
+        "Name": "Midnight Mint",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Cocktail glass",
+        "Ingredients": [
+            "Baileys irish cream - 30.0 ml",
+            "White Creme de Menthe - 22.5 ml",
+            "Cream - 22.5 ml"
+        ],
+        "Instructions": {
+            "en": "If available, rim cocktail (Martini) glass with sugar syrup then dip into chocolate flakes or powder. Add ingredients into shaker with ice. Shake well then strain into cocktail glass.",
+            "es": "Si se dispone de ella, poner el borde de la copa de coctel (Martini) con sirope de azucar y luego sumergirlo en copos o polvo de chocolate. Anada los ingredientes a la coctelera con hielo. Agitar bien y colar en una copa de coctel.",
+            "de": "Wenn verfugbar, Cocktailglas (Martini) mit Zuckersirup, dann in Schokoladenflocken oder Pulver eintauchen. Zutaten in den Shaker mit Eis geben. Gut schutteln und dann in ein Cocktailglas abseihen.",
+            "fr": "Si possible, entourer le verre a cocktail (Martini) de sirop de sucre, puis le tremper dans des paillettes ou de la poudre de chocolat. Ajouter les ingredients dans un shaker avec de la glace. Bien agiter et filtrer dans un verre a cocktail.",
+            "it": "Se disponibile, bordare il bicchiere da cocktail con sciroppo di zucchero e immergerlo in scaglie di cioccolato o polvere.\r\nAggiungi gli ingredienti in uno shaker con ghiaccio.\r\nShakerare bene e filtrare in una coppetta da cocktail."
+        },
+        "DateModified": "2015-09-02 16:38:30",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/svuvrq1441208310.jpg"
+    },
+    {
+        "CocktailID": "11000",
+        "Name": "Mojito",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Highball glass",
+        "Ingredients": [
+            "Light rum - 2-3 oz",
+            "Lime - Juice of 1",
+            "Sugar - 2 tsp",
+            "Mint - 2-4",
+            "Soda water"
+        ],
+        "Instructions": {
+            "en": "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.",
+            "es": "Mezcle las hojas de menta con el azucar y el zumo de lima. Anada un chorrito de soda y llene el vaso con hielo picado. Verter el ron y completar con soda. Decorar y servir con pajita.",
+            "de": "Minzblatter mit Zucker und Limettensaft verruhren. Fuge einen Spritzer Sodawasser hinzu und fulle das Glas mit gebrochenem Eis. Den Rum eingiessen und mit Sodawasser ubergiessen. Garnieren und mit einem Strohhalm servieren.",
+            "fr": "Melanger les feuilles de menthe avec le sucre et le jus de citron vert. Ajoutez un filet d'eau gazeuse et remplissez le verre de glace concassee. Verser le rhum et completer avec de l'eau gazeuse. Decorer et servir avec une paille.",
+            "it": "Pestare le foglie di menta con lo zucchero e il succo di lime.\r\nAggiungere una spruzzata di acqua di seltz e riempi il bicchiere con ghiaccio tritato.\r\nVersare il rum e riempire con acqua di seltz.\r\nGuarnire con una fetta di lime, servire con una cannuccia."
+        },
+        "DateModified": "2016-11-04 09:17:09",
+        "Tags": [
+            "IBA",
+            "ContemporaryClassic",
+            "Alcoholic",
+            "USA",
+            "Asia",
+            "Vegan",
+            "Citrus",
+            "Brunch",
+            "Hangover",
+            "Mild"
+        ],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg"
+    },
+    {
+        "CocktailID": "15841",
+        "Name": "Mojito Extra",
+        "Category": "Cocktail",
+        "Alcoholic": true,
+        "GlassType": "Collins glass",
+        "Ingredients": [
+            "Mint - 1/2 handful",
+            "Lemon juice - 3 cl",
+            "Dark rum - 1/8 L Jamaican",
+            "Club soda - 1/8 L",
+            "Angostura bitters - 8 drops"
+        ],
+        "Instructions": {
+            "en": "Put mint with lemon juice in a glas, mash the mint with a spoon, ice, rum & fill up with club soda. Top it with Angostura.",
+            "es": "Ponga menta con zumo de limon en un vaso, machaque la menta con una cuchara, hielo, ron y rellene con club soda. Anada Angostura.",
+            "de": "Minze mit Zitronensaft in ein Glas geben, Minze mit einem Loffel zerdrucken. Eis und Rum hinzufugen und mit Soda auffullen. Kronen Sie es mit Angostura.",
+            "fr": "Mettre de la menthe et du jus de citron dans un verre, ecraser la menthe avec une cuillere, de la glace, du rhum et completer avec du club soda. Completer avec de l'Angostura.",
+            "it": "Metti la menta con il succo di limone in un bicchiere, schiaccia la menta con un cucchiaio, ghiaccio, rum e riempila con la soda.\r\nCompletalo con Angostura."
+        },
+        "DateModified": "2016-11-04 09:24:43",
+        "Tags": [],
+        "DrinkThumb": "https://www.thecocktaildb.com/images/media/drink/vwxrsw1478251483.jpg"
+    }
+]
